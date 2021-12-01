@@ -53,6 +53,7 @@ name,source,gender,wikidata,type
 "Avenue de Conception",,,,way
 "Avenue de Cuesmes",,,,way
 "Avenue de Jemappes",,,,way
+"Avenue de Liège",,,,way
 "Avenue de Padoue",,,,way
 "Avenue de l'Europe",,,,way
 "Avenue de l'Université",,,,way
@@ -183,6 +184,8 @@ name,source,gender,wikidata,type
 "Chemin du Prince",,,,way
 "Chemin du Prince - Grand Chemin",,,,way
 "Chemin du Versant",,,,way
+"Chemin vicinal N° 99",,,,way
+"Chemin vicinal n°44",,,,way
 "Cité Balasse",,,,way
 "Cité Gaillez",,,,way
 "Cité Houdez",,,,way
@@ -210,6 +213,7 @@ name,source,gender,wikidata,type
 "Clos des Tuileries",,,,way
 "Coron du Vingt",,,,way
 "Cour Libert",,,,way
+"Cour Pierre Patte",,,,way
 "Cour de l'Âne Barré",,,,way
 "Cour du Curé Letellier",,,,way
 "Cour du Noir Lévrier",,,,way
@@ -299,6 +303,7 @@ Grand-Place,,,,way
 "Place du Souvenir",,,,way
 "Plat Chemin",,,,way
 "Pont Clara (RAVeL de la Ligne 98)",,,,way
+"Pont du Prince",,,,way
 "Quai Sud",,,,way
 "Quai des Anglais",,,,way
 "Quai des Otages",,,,way
@@ -383,6 +388,7 @@ Grand-Place,,,,way
 "Rue Demalzine",,,,way
 "Rue Devaux",,,,way
 "Rue Devreux",,,,way
+"Rue Docteur Jacquerye",,,,way
 "Rue Docteur Wolkas",,,,way
 "Rue Doyen",,,,way
 "Rue Dubreucq",,,,way
@@ -414,7 +420,6 @@ Grand-Place,,,,way
 "Rue Frébutte",,,,way
 "Rue Frérot",,,,way
 "Rue Froissart",,,,way
-"Rue Général Leman",,,,way
 "Rue Genestrois",,,,way
 "Rue Georges Delporte",,,,way
 "Rue Georges Mabile",,,,way
@@ -433,6 +438,7 @@ Grand-Place,,,,way
 "Rue Henri Dunant",,,,way
 "Rue Henri Glépin",,,,way
 "Rue Henri Rapez",,,,way
+"Rue Henri Tournelle",,,,way
 "Rue Houzeau",,,,way
 "Rue Irma Fiévez",,,,way
 "Rue Jean Locoge",,,,way
@@ -667,6 +673,7 @@ Grand-Place,,,,way
 "Rue de la Forge",,,,way
 "Rue de la Fourmilière",,,,way
 "Rue de la Fraide",,,,way
+"Rue de la Gare",,,,way
 "Rue de la Garenne",,,,way
 "Rue de la Genièvrerie",,,,way
 "Rue de la Gobeleterie",,,,way
@@ -882,7 +889,6 @@ Grand-Place,,,,way
 "Rue du Curoir",,,,way
 "Rue du Delta",,,,way
 "Rue du Dépôt",,,,way
-"Rue du Docteur Jacquerye",,,,way
 "Rue du Docteur Liénard",,,,way
 "Rue du Festinoy",,,,way
 "Rue du Fiesty",,,,way
@@ -925,6 +931,7 @@ Grand-Place,,,,way
 "Rue du Moulin d'Havré",,,,way
 "Rue du Moulin de Nimy",,,,way
 "Rue du Moulin de Spiennes",,,,way
+"Rue du Musée François Duesberg",,,,way
 "Rue du Onze Novembre",,,,way
 "Rue du Parc",,,,way
 "Rue du Pavillon",,,,relation
@@ -1014,8 +1021,12 @@ Grand-Place,,,,way
 "Sentier des Planches",,,,way
 "Sentier des Rogneaux",,,,way
 "Sentier des Vaches",,,,way
+"Sentier du Cernaux",,,,way
 "Sentier du Coq",,,,way
 "Sentier du Vicaire",,,,way
+"Sentier vicinal N° 48",,,,way
+"Sentier vicinal n°53",,,,way
+"Sentier vicinal n°94",,,,way
 "Square Europe",,,,way
 "Square de la Résistance",,,,way
 "Square du Château",,,,way
@@ -1026,5 +1037,9 @@ Grand-Place,,,,way
 "Voie Américaine",,,,way
 "Voie Jean Botte",,,,way
 "Voie de Wasmes",,,,way
+"avenue Isabelle Blume",,,,way
 "rue Quewette",,,,way
 "rue de la Côte d'Ivoire",,,,way
+"venelle de l'Egalité",,,,way
+"venelle de la Paix",,,,way
+"venelle de la Résistance",,,,way
