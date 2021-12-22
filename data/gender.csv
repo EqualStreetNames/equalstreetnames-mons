@@ -1,7 +1,9 @@
 name,source,gender,wikidata,type
 "Avenue Albert-Elisabeth",wikidata,+,Q55008046;Q235186,way
+"Boulevard Albert-Élisabeth",wikidata,+,Q55008046;Q235186,way
 "Rue Pierre et Marie Curie",wikidata,+,Q37463;Q7186,way
 "Avenue Edith Cavell",wikidata,F,Q237564,way
+"Avenue Isabelle Blume",wikidata,F,Q373455,way
 "Avenue Mélina Mercouri",wikidata,F,Q228611,way
 "Avenue Princesse Paola",wikidata,F,Q31129,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
@@ -9,18 +11,26 @@ name,source,gender,wikidata,type
 "Chaussée Brunehault - Rue des Fusillés",wikidata,F,Q230639,way
 "Clos Cécile Douard",wikidata,F,Q17625500,way
 "Clos Marie Thérèse d'Autriche",wikidata,F,Q131706,way
+"Esplanade Cesária Évora",wikidata,F,Q103759,way
 "Place Louise",wikidata,F,Q237318,way
 "Rampe Sainte-Waudru",wikidata,F,Q436732,way
 "Rue Astrid",wikidata,F,Q230238,way
+"Rue Boulangé de La Hainière",wikidata,F,Q110190241,way
+"Rue Éva Dupont",wikidata,F,Q110203199,way
 "Rue Gabrielle Petit",wikidata,F,Q468263,way
+"Rue Irma Fiévez",wikidata,F,Q110206808,way
 "Rue Jacqmotte",wikidata,F,Q3427151,way
+"Rue Louise Cambier",wikidata,F,Q110217100,way
 "Rue Marguerite Bervoets",wikidata,F,Q3290678,way
+"Rue Marie Joyle",wikidata,F,Q110217946,way
+"Rue Marthe Sigart",wikidata,F,Q110218048,way
 "Rue Notre-Dame",wikidata,F,Q345,way
 "Rue Sainte-Anne",wikidata,F,Q164294,way
 "Rue Sainte-Appoline",wikidata,F,Q232427,way
 "Rue Sainte-Barbe",wikidata,F,Q192816,way
 "Rue Sainte-Dorothée",wikidata,F,Q242274,way
 "Rue Simone Veil",wikidata,F,Q298180,way
+"Rue de Bouzanton",wikidata,F,Q110168684,way
 "Voie Berthe",wikidata,F,Q22235960,way
 "Avenue Abel Dubois",wikidata,M,Q2230999,way
 "Avenue Albert Ier",wikidata,M,Q55008046,way
@@ -28,7 +38,9 @@ name,source,gender,wikidata,type
 "Avenue Frère Orban",wikidata,M,Q705791,way
 "Avenue Général Leman",wikidata,M,Q277876,way
 "Avenue Guibal et Devillez",wikidata,M,Q2318070,way
+"Avenue Gustave Maigret de Priches",wikidata,M,Q110166107,way
 "Avenue Jean d'Avesnes",wikidata,M,Q983084,way
+"Avenue Joseph Wauters",wikidata,M,Q585785,way
 "Avenue Léo Collard",wikidata,M,Q442199,way
 "Avenue Louis Goblet",wikidata,M,Q3262050,way
 "Avenue Maréchal Foch",wikidata,M,Q192615,way
@@ -36,10 +48,13 @@ name,source,gender,wikidata,type
 "Avenue Paul de Goussencourt",wikidata,M,Q106261355,way
 "Avenue Prince Albert",wikidata,M,Q152245,way
 "Avenue Roi Albert",wikidata,M,Q55008046,way
+"Avenue Saint-Fiacre",wikidata,M,Q953927,way
+"Avenue Saint-Pierre",wikidata,M,Q33923,way
 "Avenue Thomas Edison",wikidata,M,Q8743,way
 "Avenue Victor Maistriau",wikidata,M,Q465953,way
 "Avenue Wilson",wikidata,M,Q34296,way
 "Avenue des Guérites",wikidata,M,Q705791,way
+"Avenue du Général de Gaulle",wikidata,M,Q2042,way
 "Avenue du Gouverneur Émile Cornez",wikidata,M,Q275014,way
 "Avenue du Pont-Rouge",wikidata,M,Q705791,way
 "Avenue du Prince Régent",wikidata,M,Q445553,way
@@ -54,79 +69,197 @@ name,source,gender,wikidata,type
 "Boulevard du Président Kennedy",wikidata,M,Q9696,way
 "Chaussée du Roi Baudouin",wikidata,M,Q12976,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
+"Chemin de Saint-Denis",wikidata,M,Q244380,way
+"Cité Saint-Louis",wikidata,M,Q346,way
+"Clos Antoine Delobel",wikidata,M,Q110167157,way
+"Clos Charles Jarvis",wikidata,M,Q5079470,way
+"Clos Evariste Mantannus",wikidata,M,Q110167225,way
+"Clos Fernand Debouck",wikidata,M,Q110167451,way
+"Clos Juan Bury",wikidata,M,Q110167659,way
 "Clos Maurice Dease",wikidata,M,Q6793009,way
+"Clos Nestor Nicaise",wikidata,M,Q110167700,way
+"Clos Saint-Macaire",wikidata,M,Q110167908,way
 "Clos Sidney Godley",wikidata,M,Q7509073,way
 "Clos Theodore Wright",wikidata,M,Q7782113,way
+"Cour du Curé Letellier",wikidata,M,Q16944706,way
 "Cours Dolez",wikidata,M,Q2141152,relation
+"Parc Saint-Gobain",wikidata,M,Q3109578,way
+"Passage Victor Hugo",wikidata,M,Q535,way
 "Place Arthur Bastien",wikidata,M,Q2864985,way
+"Place Charles Simonet",wikidata,M,Q110168379,way
 "Place Édouard Arcq",wikidata,M,Q105814053,way
+"Place Jean-Claude Carpentier",wikidata,M,Q3164892,way
 "Place Léopold",wikidata,M,Q12971,way
-"Place Paul Heupgen",wikidata,M,Q105814381,way
+"Place Paul Heupgen",wikidata,M,Q27467948,way
 "Place Régnier au Long Col",wikidata,M,Q206774,way
 "Place Roger de Looze",wikidata,M,Q56817018,way
+"Place Saint-Germain",wikidata,M,Q442516,way
 "Place Warocqué",wikidata,M,Q2096367,way
+"Résidence Charles Plisnier",wikidata,M,Q1065801,way
+"Résidence François André",wikidata,M,Q3085013,way
+"Résidence Saint-Géry",wikidata,M,Q585739,way
 "Rue A. Jauniaux",wikidata,M,Q15324440,way
 "Rue Achille Legrand",wikidata,M,Q17424265,way
+"Rue Adolphe Pécher",wikidata,M,Q110168470,way
+"Rue Adonis Descamps",wikidata,M,Q110176921,way
 "Rue Albert 1er",wikidata,M,Q55008046,way
+"Rue Albert Clerfayt",wikidata,M,Q110177513,way
+"Rue André Masquelier",wikidata,M,Q110178679,way
 "Rue Anto Carte",wikidata,M,Q2853424,way
 "Rue Antoine Bourlard",wikidata,M,Q23709297,way
 "Rue Antoine Clesse",wikidata,M,Q1960761,way
+"Rue Aramis Tournay",wikidata,M,Q110178777,way
 "Rue Arthur Collier",wikidata,M,Q1960921,way
+"Rue Arthur Duquesnes",wikidata,M,Q110179071,way
+"Rue Arthur Durant",wikidata,M,Q110179462,way
+"Rue Auguste Capron",wikidata,M,Q110179679,way
+"Rue Auguste Nicodème",wikidata,M,Q110180017,way
+"Rue Augustin Brohée",wikidata,M,Q110180323,way
+"Rue Baron Alfred Bonaert",wikidata,M,Q110180712,way
 "Rue Baudelet",wikidata,M,Q24578863,way
+"Rue Bruno Lebrun",wikidata,M,Q110190419,way
 "Rue Buisseret",wikidata,M,Q2205928,way
+"Rue Camille Leroy",wikidata,M,Q110190455,way
+"Rue Camille Toussaint",wikidata,M,Q110190528,way
+"Rue Caporal Trésignies",wikidata,M,Q2424269,way
+"Rue Charles Périn",wikidata,M,Q2960066,way
 "Rue Claude de Bettignies",wikidata,M,Q2976754,way
 "Rue Clémenceau",wikidata,M,Q171730,way
 "Rue Comte Cornet",wikidata,M,Q3068545,way
+"Rue Delaunois",wikidata,M,Q110190685,way
 "Rue Docteur Albert Schweitzer",wikidata,M,Q49325,way
+"Rue Dubreucq",wikidata,M,Q3087528,way
+"Rue Dumouriez",wikidata,M,Q378572,way
+"Rue Édouard Dewèze",wikidata,M,Q110230138,way
+"Rue Édouard Mouzin",wikidata,M,Q110219844,way
+"Rue Éleuthère Mercier",wikidata,M,Q110202338,way
+"Rue Émile Limauge",wikidata,M,Q110202978,way
 "Rue Émile Vandervelde",wikidata,M,Q286556,way
+"Rue Félix Maigret de Priches",wikidata,M,Q110203927,way
+"Rue Félix Nihoul",wikidata,M,Q110204244,way
+"Rue Félix Reghem",wikidata,M,Q110204514,way
+"Rue Fernand Bouteiller",wikidata,M,Q110204680,way
 "Rue Fernand Huart",wikidata,M,Q13102561,way
+"Rue Fernand Piron",wikidata,M,Q110205583,way
+"Rue Fernand Quenon",wikidata,M,Q110205684,way
+"Rue Ferrer",wikidata,M,Q354202,way
+"Rue Fidèle Gérard",wikidata,M,Q110206315,way
+"Rue Florimond Lemoine",wikidata,M,Q110205956,way
+"Rue François André",wikidata,M,Q3085013,way
 "Rue François Fétis",wikidata,M,Q523581,way
+"Rue François Marcq",wikidata,M,Q110206076,way
 "Rue Galilée",wikidata,M,Q307,way
+"Rue Georges Plumart",wikidata,M,Q110206242,way
+"Rue Georges Wattiez",wikidata,M,Q110206278,way
+"Rue Gontrand Bachy",wikidata,M,Q110206421,way
 "Rue Guy de Brès",wikidata,M,Q1368959,way
+"Rue Hector Delanois",wikidata,M,Q110206518,way
+"Rue Hector L'Hoir",wikidata,M,Q110206578,way
+"Rue Henri Culot",wikidata,M,Q110206598,way
 "Rue Henri Deruelles",wikidata,M,Q2410703,way
+"Rue Henri Dunant",wikidata,M,Q12091,way
+"Rue Henri Glépin",wikidata,M,Q110206640,way
+"Rue Henri Rapez",wikidata,M,Q110206660,way
+"Rue Henri Tournelle",wikidata,M,Q3132082,way
+"Rue Houzeau",wikidata,M,Q110206782,way
 "Rue Jacques Prévert",wikidata,M,Q165274,way
+"Rue Jacques de Fariaux",wikidata,M,Q3160278,way
 "Rue Jacques de Guise",wikidata,M,Q1678134,way
+"Rue Jean Brisselot",wikidata,M,Q55122602,way
 "Rue Jean Jaurès",wikidata,M,Q12688,way
 "Rue Jean Lescarts",wikidata,M,Q2460284,way
+"Rue Jean Locoge",wikidata,M,Q110209575,way
+"Rue Jean Manne",wikidata,M,Q110209619,way
 "Rue Jean Van den Eeden",wikidata,M,Q16191596,way
+"Rue Jean-Baptiste Demol",wikidata,M,Q110210463,way
+"Rue Joseph Delsaut",wikidata,M,Q110210707,way
 "Rue Joseph Hubert",wikidata,M,Q3185096,way
+"Rue Joseph Wauters",wikidata,M,Q585785,way
+"Rue Jules Antheunis",wikidata,M,Q110215855,way
 "Rue Jules Beresse",wikidata,M,Q106613090,way
 "Rue Jules Brabant",wikidata,M,Q11984840,way
 "Rue Jules Cornet",wikidata,M,Q3188493,way
+"Rue Jules Goffin",wikidata,M,Q110216035,way
+"Rue Jules Hoyois",wikidata,M,Q110216087,way
+"Rue Lamir",wikidata,M,Q110168537,way
+"Rue Léon Dewolf",wikidata,M,Q110216255,way
 "Rue Léon Flament",wikidata,M,Q3088162,way
 "Rue Léon Navez",wikidata,M,Q3271229,way
+"Rue Léon Save",wikidata,M,Q110216314,way
 "Rue Léopold II",wikidata,M,Q12967,way
 "Rue Léopold III",wikidata,M,Q12973,way
+"Rue Lloyd George",wikidata,M,Q134982,way
 "Rue Lloyd Georges",wikidata,M,Q134982,way
 "Rue Louis Caty",wikidata,M,Q3261447,way
+"Rue Louis Lévêque",wikidata,M,Q110216408,way
 "Rue Louis Piérard",wikidata,M,Q3262929,way
 "Rue Louis Piérart",wikidata,M,Q3262929,way
+"Rue Lucidel",wikidata,M,Q323971,way
+"Rue Marcel Beaufays",wikidata,M,Q110217398,way
 "Rue Marcel Gillis",wikidata,M,Q3288982,way
+"Rue Marcel Stievenart",wikidata,M,Q110217865,way
+"Rue Martial Nicodème",wikidata,M,Q110219734,way
 "Rue Maurice Flament",wikidata,M,Q55619992,way
+"Rue Maurice Ghislain",wikidata,M,Q110219818,way
+"Rue Molière",wikidata,M,Q687,way
+"Rue Nestor Dehon",wikidata,M,Q110219881,way
 "Rue Nicolas d'Hardenpont",wikidata,M,Q105814481,way
+"Rue Oscar Sturbois",wikidata,M,Q110219908,way
 "Rue Paul Dufour",wikidata,M,Q8324496,way
 "Rue Paul Verlaine",wikidata,M,Q755,way
 "Rue Paul-Henri Spaak",wikidata,M,Q155691,way
+"Rue Philippe Capiaumont",wikidata,M,Q110220300,way
+"Rue Pierre Dewit",wikidata,M,Q110220319,way
+"Rue Pierre Dunan",wikidata,M,Q110221573,way
+"Rue Pierre Hennebert",wikidata,M,Q110221674,way
+"Rue Pierre-Joseph Duménil",wikidata,M,Q110222011,way
+"Rue Pierre-Joseph Leclercq",wikidata,M,Q110222529,way
+"Rue Rabelais",wikidata,M,Q131018,way
+"Rue Raoul Follereau",wikidata,M,Q2706190,way
 "Rue Raoul Godfroid",wikidata,M,Q106227956,way
+"Rue Raulier",wikidata,M,Q110222704,way
 "Rue René Descartes",wikidata,M,Q9191,way
+"Rue René Noël",wikidata,M,Q3426692,way
+"Rue Richard Stiévenart",wikidata,M,Q110222736,way
+"Rue Richebé - Avenue Victor Demerbe",wikidata,M,Q110224947;Q110224381,way
+"Rue Robert Pingot",wikidata,M,Q110225202,way
 "Rue Rogier",wikidata,M,Q468109,way
 "Rue Roland de Lassus",wikidata,M,Q154792,way
+"Rue Saint-Hubert",wikidata,M,Q159834,way
 "Rue Saint-Jean",wikidata,M,Q44015,way
+"Rue Saint-Lazare",wikidata,M,Q539890,way
 "Rue Saint-Luc",wikidata,M,Q128538,way
+"Rue Saint-Macaire",wikidata,M,Q110167908,way
 "Rue Saint-Paul",wikidata,M,Q9200,way
 "Rue Salvador Allende",wikidata,M,Q440,way
 "Rue Samson",wikidata,M,Q214648,way
+"Rue Sigart",wikidata,M,Q15279289,way
+"Rue Simonon",wikidata,M,Q110222597,way
+"Rue Victor Baudour",wikidata,M,Q110226385,way
+"Rue Victor Dejardin",wikidata,M,Q110226964,way
+"Rue Victor Demerbe",wikidata,M,Q110224381,way
+"Rue Victor Dieu",wikidata,M,Q55770031,way
 "Rue Victor Hugo",wikidata,M,Q535,way
+"Rue Vilain XIIII",wikidata,M,Q11300356,way
 "Rue Vincent Van Gogh",wikidata,M,Q5582,way
+"Rue Vital Culot",wikidata,M,Q110227113,way
+"Rue Voltaire",wikidata,M,Q9068,way
 "Rue de Saint-Amand",wikidata,M,Q3461739,way
+"Rue de Saint-Antoine",wikidata,M,Q170547,way
+"Rue de Saint-Denis",wikidata,M,Q244380,way
 "Rue de Saint-Symphorien",wikidata,M,Q686367,way
 "Rue de la Bruyère",wikidata,M,Q314975,way
 "Rue du Chanoine Puissant",wikidata,M,Q3047971,way
 "Rue du Commandant Lemaire",wikidata,M,Q108443387,way
+"Rue du Docteur Liénard",wikidata,M,Q110229566,way
 "Rue du Faubourg Saint-Barthélémy",wikidata,M,Q43982,way
 "Rue du Général Leman",wikidata,M,Q277876,way
+"Rue du Gouverneur Damoiseaux",wikidata,M,Q110229582,way
+"Rue du Musée François Duesberg",wikidata,M,Q110157287,way
+"Ruelle Saint-Roch",wikidata,M,Q152457,way
 "Ruelle Victor Maistriaux",wikidata,M,Q465953,way
 "Square Franklin Roosevelt",wikidata,M,Q8007,way
 "Square Saint-Germain",wikidata,M,Q442516,way
 "Venelle Charles Garforth",wikidata,M,Q5077412,way
 "Venelle Ernest Alexander",wikidata,M,Q5394043,way
+"Voie Jean Botte",wikidata,M,Q110230484,way
