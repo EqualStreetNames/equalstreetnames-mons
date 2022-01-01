@@ -6,8 +6,13 @@ name,source,gender,wikidata,type
 "Chemin Saint-Antoine",wikidata,,Q232510,way
 "Chemin des Princes",wikidata,,Q2747456,way
 "Place de Saint-Symphorien",wikidata,,Q234910,way
+"Pont Clara (RAVeL de la Ligne 98)",wikidata,,Q1114146,way
 "Route de Binche",wikidata,,Q95121,way
 "Rue Cardinal Mercier",wikidata,,Q3389738,way
+"Rue David",wikidata,,Q18057751,way
+"Rue Élisa",wikidata,,Q20024509,way
+"Rue Madeleine",wikidata,,Q4273929,way
+"Rue Notre-Dame de Tongre",wikidata,,Q2189449,way
 "Rue P. de Meester de Heyndonck",wikidata,,Q23888728,way
 "Rue Petite Sorcière",wikidata,,Q1616828,way
 "Rue Saint-Léger",wikidata,,Q227764,way
@@ -80,6 +85,7 @@ name,source,gender,wikidata,type
 "Avenue des Espinois",,,,way
 "Avenue des Expositions",,,,way
 "Avenue des Frondaisons",,,,way
+"Avenue des Guérites",,,,way
 "Avenue des Lilas",,,,way
 "Avenue des Mimosas",,,,way
 "Avenue des Ormes",,,,way
@@ -102,6 +108,7 @@ name,source,gender,wikidata,type
 "Avenue du Fort Corbeau",,,,way
 "Avenue du Grand Large",,,,way
 "Avenue du Millénaire",,,,way
+"Avenue du Pont-Rouge",,,,way
 "Avenue du Quatrième Middlesex",,,,way
 "Avenue du Régent",,,,way
 "Avenue du Shape",,,,way
@@ -127,7 +134,7 @@ name,source,gender,wikidata,type
 "Chaussée de Maubeuge",,,,way
 "Chaussée du Rœulx",,,,way
 "Chemin Belle-Vue",,,,way
-"Chemin Bouteilier",,,,way
+"Chemin Bouteillier",,,,way
 "Chemin Sauvelon",,,,way
 "Chemin Vert",,,,way
 "Chemin Vert - Rue Jacquet",,,,way
@@ -188,7 +195,6 @@ name,source,gender,wikidata,type
 "Cité Balasse",,,,way
 "Cité Gaillez",,,,way
 "Cité Houdez",,,,way
-"Cité Jules Bary",,,,way
 "Cité Morette",,,,way
 "Cité Urban",,,,way
 "Cité de Thoissey",,,,way
@@ -214,6 +220,7 @@ Croix-Place,,,,way
 "Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
 "Drève du Prophète",,,,way
+"Enclos des Récolets",,,,way
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
 "Grand Route",,,,way
@@ -238,7 +245,7 @@ Grand-Place,,,,way
 "Parc du Bois de Mons",,,,way
 "Parvis de Messines",,,,way
 "Passage du Centre",,,,way
-"Pavé Daneau",,,,way
+"Pavé Danau",,,,way
 "Pavé du Vingt",,,,way
 "Petit Passage",,,,way
 "Petite Rue des Prés",,,,way
@@ -264,7 +271,6 @@ Grand-Place,,,,way
 "Place de Maisières",,,,way
 "Place de Mesvin",,,,way
 "Place de Nimy",,,,way
-"Place de Saint-Denis",,,,way
 "Place de Spiennes",,,,way
 "Place de Vannes",,,,way
 "Place de la Bergeronnette",,,,way
@@ -276,6 +282,7 @@ Grand-Place,,,,way
 "Place des Archers",,,,way
 "Place des Chasseurs-à-Pied",,,,way
 "Place des Martyrs",,,,way
+"Place du Bastion Vert",,,,way
 "Place du Béguinage",,,,way
 "Place du Busteau",,,,way
 "Place du Chapitre",,,,way
@@ -286,7 +293,6 @@ Grand-Place,,,,way
 "Place du Parc",,,,way
 "Place du Souvenir",,,,way
 "Plat Chemin",,,,way
-"Pont Clara (RAVeL de la Ligne 98)",,,,way
 "Pont du Prince",,,,way
 "Quai Sud",,,,way
 "Quai des Anglais",,,,way
@@ -320,7 +326,6 @@ Grand-Place,,,,way
 "Route d'Obourg",,,,way
 "Route de Wallonie",,,,way
 "Rue Albert Defrise",,,,way
-"Rue Auguste Lambert",,,,way
 "Rue Barbet",,,,way
 "Rue Baron Dubois de Chantraine",,,,way
 "Rue Basse",,,,way
@@ -332,11 +337,9 @@ Grand-Place,,,,way
 "Rue Briffaut",,,,way
 "Rue Brisée",,,,way
 "Rue Brisée - Rue de Binche",,,,way
-"Rue Brunehaut",,,,way
 "Rue Bruyères de Jurbise",,,,way
 "Rue Chant des Oiseaux",,,,way
 "Rue Chapelle du Curé",,,,way
-"Rue Charles Piron",,,,way
 "Rue Charon",,,,way
 "Rue Chisaire",,,,way
 "Rue Circulaire",,,,way
@@ -346,44 +349,29 @@ Grand-Place,,,,way
 "Rue Croisette",,,,way
 "Rue Cronque",,,,way
 "Rue Dampierre",,,,way
-"Rue David",,,,way
 "Rue Delpierre",,,,way
 "Rue Demalzine",,,,way
 "Rue Devaux",,,,way
-"Rue Devreux",,,,way
-"Rue Docteur Jacquerye",,,,way
-"Rue Docteur Wolkas",,,,way
 "Rue Doyen",,,,way
 "Rue Durant",,,,way
-"Rue Élisa",,,,way
-"Rue Émile Blairon",,,,way
-"Rue Émile Jambe",,,,way
 "Rue Emmaüs",,,,way
 "Rue Fassiau",,,,way
-"Rue Fernand Maréchal",,,,way
 "Rue Fontaine Tordeur",,,,way
 "Rue Franche",,,,way
 "Rue Frébutte",,,,way
 "Rue Frérot",,,,way
 "Rue Froissart",,,,way
 "Rue Genestrois",,,,way
-"Rue Georges Delporte",,,,way
-"Rue Georges Mabile",,,,way
 "Rue Grand-Route",,,,way
 "Rue Grande",,,,way
 "Rue Hauzeur",,,,way
-"Rue Hector Charlez",,,,way
-"Rue Hector Voituron",,,,way
-"Rue Jacques Pattey",,,,way
 "Rue Kincamps",,,,way
 "Rue Lecat",,,,way
 "Rue Lefebvre",,,,way
 "Rue Mac Donald",,,,way
 "Rue Madame Naveau",,,,way
-"Rue Madeleine",,,,way
 "Rue Malapert",,,,way
 "Rue Marais à Chardons",,,,way
-"Rue Marcel Dehon",,,,way
 "Rue Mathys",,,,way
 "Rue Meurisse",,,,way
 "Rue Mon Plaisir",,,,way
@@ -393,10 +381,8 @@ Grand-Place,,,,way
 "Rue Neuve",,,,way
 "Rue Notre Dame Débonnaire",,,,way
 "Rue Notre Dame du Petit Nimy",,,,way
-"Rue Notre-Dame de Tongres",,,,way
 "Rue Nouvelle",,,,way
 "Rue Nouvelle Chasse",,,,way
-"Rue Ottelet",,,,way
 "Rue Périer",,,,way
 "Rue Piedsente du Moulin",,,,way
 "Rue Quewette",,,,way
@@ -412,7 +398,6 @@ Grand-Place,,,,way
 "Rue Taille Cuvelier",,,,way
 "Rue Taille des Vignes",,,,way
 "Rue Taillies",,,,way
-"Rue Théophile Massart",,,,way
 "Rue Tierne Saint-Hubert",,,,way
 "Rue Tournante",,,,way
 "Rue Traversière",,,,way
@@ -486,7 +471,7 @@ Grand-Place,,,,way
 "Rue de Quaregnon",,,,way
 "Rue de Quaregnon - Avenue du Champ de Bataille",,,,way
 "Rue de Quaregon",,,,way
-"Rue de Robertsart",wikidata,,,way
+"Rue de Robertsart",,,,way
 "Rue de Roumanie",,,,way
 "Rue de Saturne",,,,way
 "Rue de Spiennes",,,,way
@@ -676,7 +661,6 @@ Grand-Place,,,,way
 "Rue des Fripiers",,,,way
 "Rue des Futaies",,,,way
 "Rue des Gades",,,,way
-"Rue des Gages",,,,way
 "Rue des Gaillers",,,,way
 "Rue des Genêts",,,,way
 "Rue des Géraniums",,,,way
@@ -707,7 +691,7 @@ Grand-Place,,,,way
 "Rue des Postes",,,,way
 "Rue des Préelles",,,,way
 "Rue des Prés Sauvages",,,,way
-"Rue des Près Verts",,,,way
+"Rue des Prés Verts",,,,way
 "Rue des Prisonniers",,,,way
 "Rue des Produits",,,,way
 "Rue des Puits",,,,way
@@ -874,7 +858,6 @@ Grand-Place,,,,way
 "Sentier Mabille",,,,way
 "Sentier Malaquin",,,,way
 "Sentier Moncoureur",,,,way
-"Sentier Sebille",,,,way
 "Sentier Sébille",,,,way
 "Sentier de Valenciennes",,,,way
 "Sentier de Villers",,,,way
@@ -907,7 +890,7 @@ Grand-Place,,,,way
 "Venelle de l'Egalité",,,,way
 "Venelle de la Paix",,,,way
 "Venelle de la Résistance",,,,way
-"Vieille chaussée de Maubeuge",,,,way
+"Vieille Chaussée de Maubeuge",,,,way
 "Vieux Chemin de Givry",,,,way
 "Vieux Chemin de Valenciennes",,,,way
 "Voie Américaine",,,,way
