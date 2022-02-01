@@ -16,6 +16,7 @@ name,source,gender,wikidata,type
 "Rue P. de Meester de Heyndonck",wikidata,,Q23888728,way
 "Rue Petite Sorcière",wikidata,,Q1616828,way
 "Rue Saint-Léger",wikidata,,Q227764,way
+"Rue de Malplaquet",wikidata,,Q316897,way
 "Rue de Strasbourg",wikidata,,Q6602,way
 "Rue des 4 Fils-Aymond",wikidata,,Q59212800,way
 "Rue des Arbalestriers",wikidata,,Q2859615,way
@@ -271,12 +272,12 @@ Grand-Place,,,,way
 "Place de Maisières",,,,way
 "Place de Mesvin",,,,way
 "Place de Nimy",,,,way
-"Place de Spiennes",,,,way
 "Place de Vannes",,,,way
 "Place de la Bergeronnette",,,,way
 "Place de la Chapelle",,,,way
 "Place de la Citadelle",,,,way
 "Place de la Gare",,,,way
+"Place de la Grande Pêcherie",,,,way
 "Place de la Perche",,,,way
 "Place des Alliés",,,,way
 "Place des Archers",,,,way
@@ -325,7 +326,6 @@ Grand-Place,,,,way
 "Route d'Harmignies",,,,way
 "Route d'Obourg",,,,way
 "Route de Wallonie",,,,way
-"Rue Albert Defrise",,,,way
 "Rue Barbet",,,,way
 "Rue Baron Dubois de Chantraine",,,,way
 "Rue Basse",,,,way
@@ -453,7 +453,6 @@ Grand-Place,,,,way
 "Rue de Jéricho",,,,way
 "Rue de Jurbise",,,,way
 "Rue de Maisières",,,,way
-"Rue de Malplaquet",,,,way
 "Rue de Mascaux",,,,way
 "Rue de Masnuy",,,,way
 "Rue de Masnuy-Saint-Jean",,,,way
@@ -540,7 +539,6 @@ Grand-Place,,,,way
 "Rue de la Forge",,,,way
 "Rue de la Fourmilière",,,,way
 "Rue de la Fraide",,,,way
-"Rue de la Gare",,,,way
 "Rue de la Garenne",,,,way
 "Rue de la Genièvrerie",,,,way
 "Rue de la Gobeleterie",,,,way
