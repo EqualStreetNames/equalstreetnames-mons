@@ -121,7 +121,6 @@ name,source,gender,wikidata,type
 "Bas Chemin",,,,way
 "Boulevard Initialis",,,,way
 "Boulevard Type",,,,way
-"Bruyères d'Erbaut",,,,way
 "Chasse Barbieux",,,,way
 "Chasse Cambier",,,,way
 "Chasse Fontaine",,,,way
@@ -192,7 +191,7 @@ name,source,gender,wikidata,type
 "Chemin du Prince - Grand Chemin",,,,way
 "Chemin du Versant",,,,way
 "Chemin vicinal N° 99",,,,way
-"Chemin vicinal n°44",,,,way
+"Chemin vicinal N°44",,,,way
 "Cité Balasse",,,,way
 "Cité Gaillez",,,,way
 "Cité Houdez",,,,way
@@ -221,7 +220,7 @@ Croix-Place,,,,way
 "Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
 "Drève du Prophète",,,,way
-"Enclos des Récolets",,,,way
+"Enclos des Récollets",,,,way
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
 "Grand Route",,,,way
@@ -295,6 +294,7 @@ Grand-Place,,,,way
 "Place du Souvenir",,,,way
 "Plat Chemin",,,,way
 "Pont du Prince",,,,way
+"Quai Nord",,,,way
 "Quai Sud",,,,way
 "Quai des Anglais",,,,way
 "Quai des Otages",,,,way
@@ -395,7 +395,6 @@ Grand-Place,,,,way
 "Rue Sohier",,,,way
 "Rue Spira",,,,way
 "Rue Taille Coleau",,,,way
-"Rue Taille Cuvelier",,,,way
 "Rue Taille des Vignes",,,,way
 "Rue Taillies",,,,way
 "Rue Tierne Saint-Hubert",,,,way
@@ -588,12 +587,14 @@ Grand-Place,,,,way
 "Rue de la Soupe Populaire",,,,way
 "Rue de la Station",,,,way
 "Rue de la Sucrerie",,,,way
+"Rue de la Taille Cuvelier",,,,way
 "Rue de la Taille des Mères",,,,way
 "Rue de la Tannerie",,,,way
 "Rue de la Terre Bêchée",,,,way
 "Rue de la Terre du Prince",,,,way
 "Rue de la Tour Auberon",,,,way
 "Rue de la Trouille",,,,way
+"Rue de la Vieille Fontaine",,,,way
 "Rue de la Vignette",,,,way
 "Rue de la Voussure",,,,way
 "Rue des Amandiers",,,,way
@@ -860,6 +861,7 @@ Grand-Place,,,,way
 "Sentier de Valenciennes",,,,way
 "Sentier de Villers",,,,way
 "Sentier de l'Héribus",,,,way
+"Sentier de l’Église",,,,way
 "Sentier de la Croix Blanche",,,,way
 "Sentier de la Gare",,,,way
 "Sentier de la Garenne",,,,way
@@ -880,8 +882,9 @@ Grand-Place,,,,way
 "Sentier du Coq",,,,way
 "Sentier du Vicaire",,,,way
 "Sentier vicinal N° 48",,,,way
+"Sentier vicinal N°53",,,,way
+"Sentier vicinal N°94",,,,way
 "Sentier vicinal n°53",,,,way
-"Sentier vicinal n°94",,,,way
 "Square Europe",,,,way
 "Square de la Résistance",,,,way
 "Venelle Veuve Préaux",,,,way
