@@ -56,6 +56,7 @@ name,source,gender,wikidata,type
 "Avenue Benoîte",,,,way
 "Avenue Floréal",,,,way
 "Avenue Lemiez",,,,way
+"Avenue Patrice Lumumba",,,,way
 "Avenue d'Hyon",,,,way
 "Avenue d'Ottawa",,,,way
 "Avenue de Bélian",,,,way
@@ -220,7 +221,7 @@ Croix-Place,,,,way
 "Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
 "Drève du Prophète",,,,way
-"Enclos des Récollets",,,,way
+"Enclos des Récolets",,,,way
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
 "Grand Route",,,,way
@@ -256,7 +257,6 @@ Grand-Place,,,,way
 "Place Nervienne",,,,way
 "Place Spira",,,,way
 "Place Triangulaire",,,,way
-"Place d'Harmignies",,,,way
 "Place d'Harvengt",,,,way
 "Place d'Havré",,,,way
 "Place d'Hyon",,,,way
@@ -299,6 +299,8 @@ Grand-Place,,,,way
 "Quai des Anglais",,,,way
 "Quai des Otages",,,,way
 "RAVeL 1",,,,way
+"RAVeL L109",,,,way
+"RAVeL Li16",,,,way
 "RAVeL de la Ligne 98",,,,way
 "RAVeL de la Ligne 98C",,,,way
 "Rampe Borgnagache",,,,way
@@ -884,7 +886,6 @@ Grand-Place,,,,way
 "Sentier vicinal N° 48",,,,way
 "Sentier vicinal N°53",,,,way
 "Sentier vicinal N°94",,,,way
-"Sentier vicinal n°53",,,,way
 "Square Europe",,,,way
 "Square de la Résistance",,,,way
 "Venelle Veuve Préaux",,,,way
