@@ -67,6 +67,7 @@ name,source,gender,wikidata,type
 "Boulevard Winston Churchill",wikidata,M,Q8016,way
 "Boulevard du Président Kennedy",wikidata,M,Q9696,way
 "Chaussée du Roi Baudouin",wikidata,M,Q12976,way
+"Chemin Saint-Antoine",wikidata,M,Q170547,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
 "Chemin de Saint-Denis",wikidata,M,Q244380,way
 "Cité Jules Bary",wikidata,M,Q3188418,way
@@ -96,6 +97,7 @@ name,source,gender,wikidata,type
 "Place Saint-Germain",wikidata,M,Q442516,way
 "Place Warocqué",wikidata,M,Q2096367,way
 "Place de Saint-Denis",wikidata,M,Q244380,way
+"Place de Saint-Symphorien",wikidata,M,Q686367,way
 "Résidence Charles Plisnier",wikidata,M,Q1065801,way
 "Résidence François André",wikidata,M,Q3085013,way
 "Résidence Saint-Géry",wikidata,M,Q585739,way
@@ -243,6 +245,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Hubert",wikidata,M,Q159834,way
 "Rue Saint-Jean",wikidata,M,Q44015,way
 "Rue Saint-Lazare",wikidata,M,Q539890,way
+"Rue Saint-Léger",wikidata,M,Q1818867,way
 "Rue Saint-Luc",wikidata,M,Q128538,way
 "Rue Saint-Macaire",wikidata,M,Q110167908,way
 "Rue Saint-Paul",wikidata,M,Q9200,way
