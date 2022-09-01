@@ -18,7 +18,7 @@ name,source,gender,wikidata,type
 "Rue des 4 Fils-Aymond",wikidata,,Q59212800,way
 "Rue des Arbalestriers",wikidata,,Q2859615,way
 "Rue des Bénédictines",wikidata,,Q131132,way
-"Rue des Dames",wikidata,,Q8389671,way
+"Rue des Dames",wikidata,,Q21768599,way
 "Rue du Gouvernement",wikidata,,Q7188,way
 "Ruelle César",wikidata,,Q18342089,way
 "Ruelle Madeleine",wikidata,,Q4273929,way
@@ -61,6 +61,7 @@ name,source,gender,wikidata,type
 "Avenue de Cuesmes",,,,way
 "Avenue de Jemappes",,,,way
 "Avenue de Liège",,,,way
+"Avenue de Lisbonne",,,,way
 "Avenue de Padoue",,,,way
 "Avenue de l'Europe",,,,way
 "Avenue de l'Université",,,,way
@@ -137,6 +138,7 @@ name,source,gender,wikidata,type
 "Chemin Vert",,,,way
 "Chemin Vert - Rue Jacquet",,,,way
 "Chemin Vert du Panisel",,,,way
+"Chemin Vicinal n°44",,,,way
 "Chemin à Baraques",,,,way
 "Chemin d'Adresse",,,,way
 "Chemin d'Aulchin",,,,way
@@ -166,7 +168,6 @@ name,source,gender,wikidata,type
 "Chemin de la Procession",,,,way
 "Chemin de la Vallière",,,,way
 "Chemin de la Verrerie",,,,way
-"Chemin des Baudarts",,,,way
 "Chemin des Écoliers",,,,way
 "Chemin des Étangs",,,,way
 "Chemin des Grands Prés",,,,way
@@ -189,7 +190,6 @@ name,source,gender,wikidata,type
 "Chemin du Prince - Grand Chemin",,,,way
 "Chemin du Versant",,,,way
 "Chemin vicinal N° 99",,,,way
-"Chemin vicinal N°44",,,,way
 "Cité Balasse",,,,way
 "Cité Gaillez",,,,way
 "Cité Houdez",,,,way
@@ -218,7 +218,7 @@ Croix-Place,,,,way
 "Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
 "Drève du Prophète",,,,way
-"Enclos des Récolets",,,,way
+"Enclos des Récollets",,,,way
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
 "Grand Route",,,,way
@@ -264,6 +264,7 @@ Grand-Place,,,,way
 "Place de Cuesmes",,,,relation+way
 "Place de Flandre",,,,way
 "Place de Ghlin",,,,way
+"Place de Jemappes",,,,way
 "Place de Jéricho",,,,way
 "Place de Maisières",,,,way
 "Place de Mesvin",,,,way
@@ -291,7 +292,6 @@ Grand-Place,,,,way
 "Place du Souvenir",,,,way
 "Plat Chemin",,,,way
 "Pont du Prince",,,,way
-"Quai Nord",,,,way
 "Quai Sud",,,,way
 "Quai des Anglais",,,,way
 "Quai des Otages",,,,way
@@ -316,6 +316,7 @@ Grand-Place,,,,way
 "Rive Droite du Canal du Centre",,,,way
 "Rive Gauche du Canal",,,,way
 "Rive Gauche du canal",,,,way
+"Rond-Point des baudarts",,,,way
 "Rond-Point du Pont-Canal",,,,way
 "Rond-Point du Trieu",,,,way
 "Route Industrielle",,,,way
@@ -430,6 +431,7 @@ Grand-Place,,,,way
 "Rue de Bertaimont",,,,way
 "Rue de Beugnies",,,,way
 "Rue de Binche - Chemin de Binche",,,,way
+"Rue de Binche - Rue Brisée",,,,way
 "Rue de Bousies",,,,way
 "Rue de Boussoit",,,,way
 "Rue de Boussu",,,,way
@@ -512,7 +514,6 @@ Grand-Place,,,,way
 "Rue de la Biche",,,,way
 "Rue de la Boulangerie",,,,way
 "Rue de la Briqueterie",,,,way
-"Rue de la Brisée",,,,way
 "Rue de la Butte",,,,way
 "Rue de la Cascade",,,,way
 "Rue de la Casse",,,,way
@@ -771,7 +772,6 @@ Grand-Place,,,,way
 "Rue du Grand Pont",,,,way
 "Rue du Grand Trait",,,,way
 "Rue du Grand Trait - Avenue du Champ de Bataille",,,,way
-"Rue du Grand Trou Oudard",,,,way
 "Rue du Grand Trou-Oudart",,,,way
 "Rue du Haut Flénu",,,,way
 "Rue du Hautbois",,,,way
@@ -796,6 +796,7 @@ Grand-Place,,,,way
 "Rue du Onze Novembre",,,,way
 "Rue du Parc",,,,way
 "Rue du Pavillon",,,,relation
+"Rue du Périsel",,,,way
 "Rue du Petit Champs",,,,way
 "Rue du Petit Harvengt",,,,way
 "Rue du Petit Hornu",,,,way
@@ -858,6 +859,8 @@ Grand-Place,,,,way
 "Sentier Malaquin",,,,way
 "Sentier Moncoureur",,,,way
 "Sentier Sébille",,,,way
+"Sentier Vicinal n°53",,,,way
+"Sentier Vicinal n°94",,,,way
 "Sentier de Valenciennes",,,,way
 "Sentier de Villers",,,,way
 "Sentier de l'Héribus",,,,way
@@ -881,8 +884,6 @@ Grand-Place,,,,way
 "Sentier du Coq",,,,way
 "Sentier du Vicaire",,,,way
 "Sentier vicinal N° 48",,,,way
-"Sentier vicinal N°53",,,,way
-"Sentier vicinal N°94",,,,way
 "Square Europe",,,,way
 "Square de la Résistance",,,,way
 "Venelle Veuve Préaux",,,,way
