@@ -18,6 +18,7 @@ name,source,gender,wikidata,type
 "Rue Boulangé de La Hainière",wikidata,F,Q110190241,way
 "Rue Brunehaut",wikidata,F,Q230639,way
 "Rue Éva Dupont",wikidata,F,Q110203199,way
+"Rue Gabrielle Petit",wikidata,F,Q468263,way
 "Rue Irma Fiévez",wikidata,F,Q110206808,way
 "Rue Jacqmotte",wikidata,F,Q3427151,way
 "Rue Louise Cambier",wikidata,F,Q110217100,way
@@ -100,7 +101,6 @@ name,source,gender,wikidata,type
 "Résidence Charles Plisnier",wikidata,M,Q1065801,way
 "Résidence François André",wikidata,M,Q3085013,way
 "Résidence Saint-Géry",wikidata,M,Q585739,way
-"Rue A. Jauniaux",wikidata,M,Q15324440,way
 "Rue Achille Legrand",wikidata,M,Q17424265,way
 "Rue Adolphe Pécher",wikidata,M,Q110168470,way
 "Rue Adonis Descamps",wikidata,M,Q110176921,way
@@ -115,6 +115,7 @@ name,source,gender,wikidata,type
 "Rue Arthur Collier",wikidata,M,Q110243219,way
 "Rue Arthur Duquesnes",wikidata,M,Q110179071,way
 "Rue Arthur Durant",wikidata,M,Q110179462,way
+"Rue Arthur Jauniaux",wikidata,M,Q15324440,way
 "Rue Auguste Capron",wikidata,M,Q110179679,way
 "Rue Auguste Lambert",wikidata,M,Q110179800,way
 "Rue Auguste Nicodème",wikidata,M,Q110180017,way
@@ -218,7 +219,6 @@ name,source,gender,wikidata,type
 "Rue Molière",wikidata,M,Q687,way
 "Rue Nestor Dehon",wikidata,M,Q110219881,way
 "Rue Nicolas d'Hardenpont",wikidata,M,Q105814481,way
-"Rue Oscar Devreux",wikidata,M,Q110236080,way
 "Rue Oscar Sturbois",wikidata,M,Q110219908,way
 "Rue Ottelet",wikidata,M,Q110219992,way
 "Rue Paul Dufour",wikidata,M,Q8324496,way

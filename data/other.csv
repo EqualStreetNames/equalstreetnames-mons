@@ -9,9 +9,9 @@ name,source,gender,wikidata,type
 "Rue Cardinal Mercier",wikidata,,Q3389738,way
 "Rue David",wikidata,,Q18057751,way
 "Rue Élisa",wikidata,,Q20024509,way
-"Rue Gabrielle Petit",wikidata,,Q468263,way
 "Rue Madeleine",wikidata,,Q4273929,way
 "Rue Notre-Dame de Tongre",wikidata,,Q2189449,way
+"Rue Oscar Devreux",wikidata,,,way
 "Rue P. de Meester de Heyndonck",wikidata,,Q23888728,way
 "Rue Petite Sorcière",wikidata,,Q1616828,way
 "Rue de Malplaquet",wikidata,,Q316897,way
@@ -273,7 +273,6 @@ Grand-Place,,,,way
 "Place de Nimy",,,,way
 "Place de Vannes",,,,way
 "Place de la Bergeronnette",,,,way
-"Place de la Chapelle",,,,way
 "Place de la Citadelle",,,,way
 "Place de la Gare",,,,way
 "Place de la Grande Pêcherie",,,,way
@@ -433,7 +432,6 @@ Grand-Place,,,,way
 "Rue de Bertaimont",,,,way
 "Rue de Beugnies",,,,way
 "Rue de Binche - Chemin de Binche",,,,way
-"Rue de Binche - Rue Brisée",,,,way
 "Rue de Bousies",,,,way
 "Rue de Boussoit",,,,way
 "Rue de Boussu",,,,way
@@ -502,6 +500,7 @@ Grand-Place,,,,way
 "Rue de l'Église",,,,way
 "Rue de l'Enseignement",,,,way
 "Rue de l'Épargne",,,,way
+"Rue de l'Escaut",,,,way
 "Rue de l'Espinette",,,,way
 "Rue de l'Étang Derbaix",,,,way
 "Rue de l'Europe",,,,way
