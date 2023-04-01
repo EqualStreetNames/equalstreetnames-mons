@@ -11,7 +11,6 @@ name,source,gender,wikidata,type
 "Rue Élisa",wikidata,,Q20024509,way
 "Rue Madeleine",wikidata,,Q4273929,way
 "Rue Notre-Dame de Tongre",wikidata,,Q2189449,way
-"Rue Oscar Devreux",wikidata,,,way
 "Rue P. de Meester de Heyndonck",wikidata,,Q23888728,way
 "Rue Petite Sorcière",wikidata,,Q1616828,way
 "Rue de Malplaquet",wikidata,,Q316897,way
@@ -386,6 +385,7 @@ Grand-Place,,,,way
 "Rue Notre Dame du Petit Nimy",,,,way
 "Rue Nouvelle",,,,way
 "Rue Nouvelle Chasse",,,,way
+"Rue Oscar Devreux",,,,way
 "Rue Périer",,,,way
 "Rue Piedsente du Moulin",,,,way
 "Rue Quewette",,,,way
