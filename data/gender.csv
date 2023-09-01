@@ -46,6 +46,7 @@ name,source,gender,wikidata,type
 "Avenue Louis Goblet",wikidata,M,Q3262050,way
 "Avenue Maréchal Foch",wikidata,M,Q192615,way
 "Avenue Nicolas Copernic",wikidata,M,Q619,way
+"Avenue Patrice Lumumba",wikidata,M,Q161672,way
 "Avenue Paul de Goussencourt",wikidata,M,Q106261355,way
 "Avenue Prince Albert",wikidata,M,Q152245,way
 "Avenue Roi Albert",wikidata,M,Q55008046,way
@@ -54,6 +55,7 @@ name,source,gender,wikidata,type
 "Avenue Thomas Edison",wikidata,M,Q8743,way
 "Avenue Victor Maistriau",wikidata,M,Q465953,way
 "Avenue Wilson",wikidata,M,Q34296,way
+"Avenue des Bassins",wikidata,M,Q161672,way
 "Avenue du Général de Gaulle",wikidata,M,Q2042,way
 "Avenue du Gouverneur Émile Cornez",wikidata,M,Q275014,way
 "Avenue du Prince Régent",wikidata,M,Q445553,way
@@ -262,6 +264,7 @@ name,source,gender,wikidata,type
 "Rue Vincent Van Gogh",wikidata,M,Q5582,way
 "Rue Vital Culot",wikidata,M,Q110227113,way
 "Rue Voltaire",wikidata,M,Q9068,way
+"Rue d'Egmont",wikidata,M,Q435844,way
 "Rue de Gages",wikidata,M,Q2575404,way
 "Rue de Saint-Amand",wikidata,M,Q3461739,way
 "Rue de Saint-Antoine",wikidata,M,Q170547,way

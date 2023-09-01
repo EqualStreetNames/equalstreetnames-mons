@@ -4,6 +4,7 @@ name,source,gender,wikidata,type
 "Chaussée de Binche",wikidata,,Q95121,way
 "Chemin Guillaume",wikidata,,Q18190448,way
 "Chemin des Princes",wikidata,,Q2747456,way
+"Cour du Noir Lévrier",wikidata,,Q39344,way
 "Pont Clara (RAVeL de la Ligne 98)",wikidata,,Q1114146,way
 "Route de Binche",wikidata,,Q95121,way
 "Rue Cardinal Mercier",wikidata,,Q3389738,way
@@ -19,6 +20,7 @@ name,source,gender,wikidata,type
 "Rue des Arbalestriers",wikidata,,Q2859615,way
 "Rue des Bénédictines",wikidata,,Q131132,way
 "Rue des Dames",wikidata,,Q21768599,way
+"Rue des Kievrois",wikidata,,Q95318,way
 "Rue du Gouvernement",wikidata,,Q7188,way
 "Ruelle César",wikidata,,Q18342089,way
 "Ruelle Madeleine",wikidata,,Q4273929,way
@@ -54,7 +56,6 @@ name,source,gender,wikidata,type
 "Avenue Benoîte",,,,way
 "Avenue Floréal",,,,way
 "Avenue Lemiez",,,,way
-"Avenue Patrice Lumumba",,,,way
 "Avenue d'Hyon",,,,way
 "Avenue d'Ottawa",,,,way
 "Avenue de Bélian",,,,way
@@ -81,7 +82,6 @@ name,source,gender,wikidata,type
 "Avenue de la Shangri",,,,way
 "Avenue de la Wallonie",,,,way
 "Avenue des Acacias",,,,way
-"Avenue des Bassins",,,,way
 "Avenue des Cèdres",,,,way
 "Avenue des Espinois",,,,way
 "Avenue des Expositions",,,,way
@@ -124,7 +124,6 @@ name,source,gender,wikidata,type
 "Chasse Barbieux",,,,way
 "Chasse Cambier",,,,way
 "Chasse Fontaine",,,,way
-"Chasse Ma Brune",,,,way
 "Chasse Montignies",,,,way
 "Chasse du Bon Dieu",,,,way
 "Chasse du Bon Dieu de Pitié",,,,way
@@ -211,7 +210,6 @@ name,source,gender,wikidata,type
 "Cour Libert",,,,way
 "Cour Pierre Patte",,,,way
 "Cour de l'Âne Barré",,,,way
-"Cour du Noir Lévrier",,,,way
 "Courte Voie",,,,way
 Croix-Place,,,,way
 "Digue de Cuesmes",,,,way
@@ -419,7 +417,6 @@ Grand-Place,,,,way
 "Rue aux Vignes",,,,way
 "Rue d'Amérique",,,,way
 "Rue d'Asquillies",,,,way
-"Rue d'Egmont",,,,way
 "Rue d'Empire",,,,way
 "Rue d'En-Bas",,,,way
 "Rue d'Enghien",,,,way
@@ -678,7 +675,6 @@ Grand-Place,,,,way
 "Rue des Hiots",,,,way
 "Rue des Iris",,,,way
 "Rue des Juifs",,,,way
-"Rue des Kievrois",,,,way
 "Rue des Laminoirs",,,,way
 "Rue des Maraichers",,,,way
 "Rue des Marcottes",,,,way
