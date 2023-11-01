@@ -6,6 +6,7 @@ name,source,gender,wikidata,type
 "Chemin des Princes",wikidata,,Q2747456,way
 "Cour du Noir Lévrier",wikidata,,Q39344,way
 "Pont Clara (RAVeL de la Ligne 98)",wikidata,,Q1114146,way
+"Route de Beaumont",wikidata,,Q95100,way
 "Route de Binche",wikidata,,Q95121,way
 "Rue Cardinal Mercier",wikidata,,Q3389738,way
 "Rue David",wikidata,,Q18057751,way
@@ -131,6 +132,8 @@ name,source,gender,wikidata,type
 "Chaussée de Cuesmes",,,,way
 "Chaussée de Ghlin",,,,way
 "Chaussée de Maubeuge",,,,way
+"Chaussée de Mons",,,,way
+"Chaussée de l'Espérance",,,,way
 "Chaussée du Rœulx",,,,way
 "Chemin Belle-Vue",,,,way
 "Chemin Bouteillier",,,,way
@@ -173,6 +176,7 @@ name,source,gender,wikidata,type
 "Chemin des Grands Prés",,,,way
 "Chemin des Mourdreux",,,,way
 "Chemin des Moutons",,,,way
+"Chemin des Postes",,,,way
 "Chemin des Préelles",,,,way
 "Chemin des Tuileries",,,,way
 "Chemin des Wartons",,,,way
@@ -363,8 +367,11 @@ Grand-Place,,,,way
 "Rue Genestrois",,,,way
 "Rue Grand-Route",,,,way
 "Rue Grande",,,,way
+"Rue Haig",,,,way
 "Rue Hauzeur",,,,way
 "Rue Isala Van Diest",,,,way
+"Rue Jacquet",,,,way
+"Rue Jules Destrée",,,,way
 "Rue Kincamps",,,,way
 "Rue Lecat",,,,way
 "Rue Lefebvre",,,,way
@@ -473,7 +480,6 @@ Grand-Place,,,,way
 "Rue de Péronnes",,,,way
 "Rue de Quaregnon",,,,way
 "Rue de Quaregnon - Avenue du Champ de Bataille",,,,way
-"Rue de Quaregon",,,,way
 "Rue de Robertsart",,,,way
 "Rue de Roumanie",,,,way
 "Rue de Saturne",,,,way
@@ -549,6 +555,7 @@ Grand-Place,,,,way
 "Rue de la Goëtte",,,,way
 "Rue de la Goulette",,,,way
 "Rue de la Grande Triperie",,,,way
+"Rue de la Grosse Cotte",,,,way
 "Rue de la Grosse Pomme",,,,way
 "Rue de la Hainette",,,,way
 "Rue de la Halle",,,,way
@@ -611,6 +618,7 @@ Grand-Place,,,,way
 "Rue des Apôtres",,,,way
 "Rue des Archers",,,,way
 "Rue des Arquebusiers",,,,way
+"Rue des Azalées",,,,way
 "Rue des Barbelés",,,,way
 "Rue des Belneux",,,,way
 "Rue des Berceaux",,,,way
@@ -689,6 +697,7 @@ Grand-Place,,,,way
 "Rue des Pensionnés",,,,way
 "Rue des Perces-Neige",,,,way
 "Rue des Pierres",,,,way
+"Rue des Pierres à Fusil",,,,way
 "Rue des Pinsons",,,,way
 "Rue des Pivoines",,,,way
 "Rue des Postes",,,,way
@@ -724,6 +733,7 @@ Grand-Place,,,,way
 "Rue des Violettes",,,,way
 "Rue des Walbrées",,,,way
 "Rue des Wartons",,,,way
+"Rue du 11 Novembre 1918",,,,way
 "Rue du 11e Régiment d'Artillerie",,,,way
 "Rue du 1er Chasseur à Cheval",,,,way
 "Rue du 4 Août",,,,way
@@ -735,9 +745,11 @@ Grand-Place,,,,way
 "Rue du Bois",,,,way
 "Rue du Bois Brulé",,,,way
 "Rue du Bois Là-Haut",,,,way
+"Rue du Bois d'Arras",,,,way
 "Rue du Bois d'Havré",,,,way
 "Rue du Bois d'Hayon",,,,way
 "Rue du Bois des Dames",,,,way
+"Rue du Brocqueroy",,,,way
 "Rue du By",,,,way
 "Rue du Camp",,,,way
 "Rue du Campiau",,,,way
@@ -752,6 +764,7 @@ Grand-Place,,,,way
 "Rue du Coin Vert",,,,way
 "Rue du Comte",,,,way
 "Rue du Corbeau",,,,way
+"Rue du Court Tournant",,,,way
 "Rue du Couvent",,,,way
 "Rue du Crossage",,,,way
 "Rue du Curoir",,,,way
@@ -773,7 +786,6 @@ Grand-Place,,,,way
 "Rue du Grand Marais",,,,way
 "Rue du Grand Pays",,,,way
 "Rue du Grand Pont",,,,way
-"Rue du Grand Trait",,,,way
 "Rue du Grand Trait - Avenue du Champ de Bataille",,,,way
 "Rue du Grand Trou-Oudart",,,,way
 "Rue du Haut Flénu",,,,way
@@ -841,6 +853,7 @@ Grand-Place,,,,way
 "Rue du Trieu",,,,way
 "Rue du Troubliot",,,,way
 "Rue du Trouillon Voûté",,,,way
+"Rue du Vent Val",,,,way
 "Rue du Village",,,,way
 "Rue du Waizeau",,,,way
 "Ruelle Coppé",,,,way
@@ -885,6 +898,7 @@ Grand-Place,,,,way
 "Sentier des Planches",,,,way
 "Sentier des Rogneaux",,,,way
 "Sentier des Vaches",,,,way
+"Sentier du Bois",,,,way
 "Sentier du Cernaux",,,,way
 "Sentier du Coq",,,,way
 "Sentier du Vicaire",,,,way
