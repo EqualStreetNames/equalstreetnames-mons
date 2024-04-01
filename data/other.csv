@@ -69,7 +69,6 @@ name,source,gender,wikidata,type
 "Avenue de Padoue",,,,way
 "Avenue de l'Europe",,,,way
 "Avenue de l'Université",,,,way
-"Avenue de la Chapelle",,,,way
 "Avenue de la Chasse Royale",,,,way
 "Avenue de la Faïencerie",,,,way
 "Avenue de la France",,,,way
@@ -282,13 +281,13 @@ Grand-Place,,,,way
 "Place des Alliés",,,,way
 "Place des Archers",,,,way
 "Place des Chasseurs-à-Pied",,,,way
+"Place des Congrès",,,,way
 "Place des Martyrs",,,,way
 "Place du Bastion Vert",,,,way
 "Place du Béguinage",,,,way
 "Place du Busteau",,,,way
 "Place du Chapitre",,,,way
 "Place du Chardonneret",,,,way
-"Place du Congrès",,,,way
 "Place du Manège",,,,way
 "Place du Marais à Criquelions",,,,way
 "Place du Marché aux Poissons",,,,way
@@ -397,6 +396,7 @@ Grand-Place,,,,way
 "Rue Piedsente du Moulin",,,,way
 "Rue Quewette",,,,way
 "Rue Rachot",,,,way
+"Rue Ridgway",,,,way
 "Rue Rogers",,,,way
 "Rue Sablonnière",,,,way
 "Rue Sainte Félicité",,,,way
