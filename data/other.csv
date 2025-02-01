@@ -42,7 +42,7 @@ name,source,gender,wikidata,type
 "Avenue de la Wallonie",wikidata,,Q83078,way
 "Avenue des Acacias",wikidata,,Q81666,way
 "Avenue des Cèdres",wikidata,,Q128550,way
-"Avenue des Guérites",wikidata,,,way
+"Avenue des Guérites",wikidata,,;Q2235514,way
 "Avenue des Lilas",wikidata,,Q6565319,way
 "Avenue des Mimosas",wikidata,,Q160110,way
 "Avenue des Ormes",wikidata,,Q131113,way
@@ -192,6 +192,7 @@ name,source,gender,wikidata,type
 "Rue Sans Coron",wikidata,,Q184150,way
 "Rue Vieille Haine",wikidata,,Q1569447,way
 "Rue à Degrés",wikidata,,Q1139344,way
+"Rue aux Loups",wikidata,,Q18498,way
 "Rue aux Vignes",wikidata,,Q3248828,way
 "Rue d'Amérique",wikidata,,Q828,way
 "Rue d'Asquillies",wikidata,,Q2866912,way
@@ -363,7 +364,7 @@ name,source,gender,wikidata,type
 "Rue des Guimauves",wikidata,,Q158496,way
 "Rue des Iris",wikidata,,Q156901,way
 "Rue des Juifs",wikidata,,Q7325,way
-"Rue des Kievrois",wikidata,,Q95318,way
+"Rue des Kiévrois",wikidata,,Q95318,way
 "Rue des Laminoirs",wikidata,,Q1049792,way
 "Rue des Maraichers",wikidata,,Q19914236,way
 "Rue des Martyrs",wikidata,,Q6498826,way
@@ -440,7 +441,7 @@ name,source,gender,wikidata,type
 "Rue du Point du Jour",wikidata,,Q11326182,way
 "Rue du Pont",wikidata,,Q12280,way
 "Rue du Portugal",wikidata,,Q45,way
-"Rue du Pourcelet",wikidata,,,way
+"Rue du Pourcelet",wikidata,,Q787,way
 "Rue du Progrès",wikidata,,Q247792,way
 "Rue du Québec",wikidata,,Q176,way
 "Rue du Rapois",wikidata,,Q21764477,way
@@ -462,7 +463,6 @@ name,source,gender,wikidata,type
 "Ruelle Mathieu",wikidata,,Q17484081,way
 "Ruelle Saint-Léonard",wikidata,,Q1158103,way
 "Ruelle à Vaches",wikidata,,Q11748378,way
-"Ruelle aux Loups",wikidata,,Q18498,way
 "Ruelle des Pêcheurs",wikidata,,Q331432,way
 "Sentier Hubert",wikidata,,Q13728754,way
 "Sentier de Villers",wikidata,,Q3224973,way
@@ -495,7 +495,6 @@ name,source,gender,wikidata,type
 "Allée des Tuyas",,,,way
 "Autoroute de Wallonie",,,,way
 "Avenue Benoite",,,,way
-"Avenue Benoîte",,,,way
 "Avenue Floréal",,,,way
 "Avenue Lemiez",,,,way
 "Avenue de la Chasse Royale",,,,way
@@ -564,10 +563,11 @@ name,source,gender,wikidata,type
 "Cour Pierre Patte",,,,way
 "Cour de l'Âne Barré",,,,way
 "Courte Voie",,,,way
-Croix-Place,,,,way
+"Croix Place",,,,way
 "Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
 "Esplanade Anne-Charlotte de Lorraine",,,,way
+"Esplanade Césaria Évora",,,,way
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
 "Grand Route",,,,way
@@ -581,6 +581,7 @@ Grand-Rue,,,,way
 "Impasse Tirtey",,,,way
 "Impasse de la Chapelle",,,,way
 "Impasse de la Consule",,,,way
+"Marché Croix Place",,,,way
 "Marché aux Herbes",,,,way
 "Parvis de Messines",,,,way
 "Passage du Centre",,,,way
@@ -594,7 +595,7 @@ Grand-Rue,,,,way
 "Place de la Gare",,,,way
 "Place de la Grande Pêcherie",,,,way
 "Place de la Perche",,,,way
-"Place des Chasseurs-à-Pied",,,,way
+"Place des Chasseurs à Pied",,,,way
 "Place des Congrès",,,,way
 "Place du Bastion Vert",,,,way
 "Place du Busteau",,,,way
@@ -637,6 +638,7 @@ Grand-Rue,,,,way
 "Rue Colinet",,,,way
 "Rue Courte",,,,way
 "Rue Cronque",,,,way
+"Rue Cybèle",,,,way
 "Rue Delpierre",,,,way
 "Rue Demalzine",,,,way
 "Rue Devaux",,,,way
@@ -663,18 +665,18 @@ Grand-Rue,,,,way
 "Rue Moncoureur",,,,way
 "Rue Mont Anzin",,,,way
 "Rue Neuve",,,,way
-"Rue Notre Dame Débonnaire",,,,way
+"Rue Notre-Dame Débonnaire",,,,way
 "Rue Nouvelle",,,,way
 "Rue Nouvelle Chasse",,,,way
 "Rue Périer",,,,way
 "Rue Piedsente du Moulin",,,,way
+"Rue Polyade",,,,way
 "Rue Quewette",,,,way
 "Rue Rachot",,,,way
 "Rue Sainte Félicité",,,,way
 "Rue Serpentine",,,,way
 "Rue Sohier",,,,way
 "Rue Taille Coleau",,,,way
-"Rue Taille des Vignes",,,,way
 "Rue Taillies",,,,way
 "Rue Tierne Saint-Hubert",,,,way
 "Rue Tournante",,,,way
@@ -697,6 +699,7 @@ Grand-Rue,,,,way
 "Rue de Caraman",,,,way
 "Rue de Courbie",,,,way
 "Rue de Goïspenne",,,,way
+"Rue de L'Epargne",,,,way
 "Rue de Mascaux",,,,way
 "Rue de Masnuy",,,,way
 "Rue de Milfort",,,,way
@@ -750,6 +753,7 @@ Grand-Rue,,,,way
 "Rue de la Roche",,,,way
 "Rue de la Taille Cuvelier",,,,way
 "Rue de la Taille des Mères",,,,way
+"Rue de la Taille des Vignes",,,,way
 "Rue de la Terre du Prince",,,,way
 "Rue de la Vignette",,,,way
 "Rue des Anneaux",,,,way
@@ -763,10 +767,12 @@ Grand-Rue,,,,way
 "Rue des Caches",,,,way
 "Rue des Cailles",,,,way
 "Rue des Castillons",,,,way
+"Rue des Chinchins",,,,way
 "Rue des Cinq Visages",,,,way
 "Rue des Clairs Logis",,,,way
 "Rue des Croix",,,,way
 "Rue des Croix Projetées",,,,way
+"Rue des Diables",,,,way
 "Rue des Durmenés",,,,way
 "Rue des Écoles",,,,way
 "Rue des Fillettes",,,,way
@@ -775,6 +781,7 @@ Grand-Rue,,,,way
 "Rue des Gaillers",,,,way
 "Rue des Groseilliers",,,,way
 "Rue des Hiots",,,,way
+"Rue des Hommes Blancs",,,,way
 "Rue des Marcottes",,,,way
 "Rue des Moineaux",,,,way
 "Rue des Nations",,,,way
@@ -809,6 +816,7 @@ Grand-Rue,,,,way
 "Rue du Brocqueroy",,,,way
 "Rue du Camp",,,,way
 "Rue du Campiau",,,,way
+"Rue du Car d'Or",,,,way
 "Rue du Centre",,,,way
 "Rue du Château Guillochain",,,,way
 "Rue du Coin Vert",,,,way
@@ -826,7 +834,7 @@ Grand-Rue,,,,way
 "Rue du Grand Pays",,,,way
 "Rue du Grand Pont",,,,way
 "Rue du Grand Trait - Avenue du Champ de Bataille",,,,way
-"Rue du Grand Trou-Oudart",,,,way
+"Rue du Grand Trou Oudart",,,,way
 "Rue du Hautbois",,,,way
 "Rue du Kêne à Caimont",,,,way
 "Rue du Levant",,,,way
@@ -894,5 +902,9 @@ Grand-Rue,,,,way
 "Sentier vicinal N° 48",,,,way
 "Venelle Veuve Préaux",,,,way
 "Venelle de l'Egalité",,,,way
+"Venelle des Chanoinesses",,,,way
+"Venelle des Hallebardiers",,,,way
+"Venelle des Hommes de Feuilles",,,,way
+"Venelle des Petits Pages",,,,way
 "Vicinal n°44",,,,way
 "Vieux Chemin de Valenciennes",,,,way

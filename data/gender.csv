@@ -55,7 +55,7 @@ name,source,gender,wikidata,type
 "Avenue Saint-Fiacre",wikidata,M,Q953927,way
 "Avenue Saint-Pierre",wikidata,M,Q33923,way
 "Avenue Thomas Edison",wikidata,M,Q8743,way
-"Avenue Victor Maistriau",wikidata,M,Q465953,way
+"Avenue Victor Maistriau",wikidata,M,Q465953;Q9696,way
 "Avenue Wilson",wikidata,M,Q34296,way
 "Avenue de la Capelle",wikidata,M,Q110230138,way
 "Avenue de la Chapelle",wikidata,M,Q110230138,way
@@ -70,9 +70,9 @@ name,source,gender,wikidata,type
 "Boulevard Dolez",wikidata,M,Q2516001,way
 "Boulevard Fulgence Masson",wikidata,M,Q1501877;Q771562,way
 "Boulevard Gendebien",wikidata,M,Q693047,way
-"Boulevard John Fitzgerald Kennedy",wikidata,M,Q9696,way
 "Boulevard Sainctelette",wikidata,M,Q1814380,way
 "Boulevard Winston Churchill",wikidata,M,Q8016,way
+"Boulevard du Président Kennedy",wikidata,M,Q9696,way
 "Chaussée du Roi Baudouin",wikidata,M,Q12976,way
 "Chemin Saint-Antoine",wikidata,M,Q170547,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
@@ -122,6 +122,7 @@ name,source,gender,wikidata,type
 "Rue Antoine Clesse",wikidata,M,Q1960761,way
 "Rue Aramis Tournay",wikidata,M,Q110178777,way
 "Rue Arthur Collier",wikidata,M,Q110243219,way
+"Rue Arthur Duquesne",wikidata,M,Q110179071,way
 "Rue Arthur Duquesnes",wikidata,M,Q110179071,way
 "Rue Arthur Durant",wikidata,M,Q110179462,way
 "Rue Arthur Jauniaux",wikidata,M,Q15324440,way
@@ -298,13 +299,13 @@ name,source,gender,wikidata,type
 "Rue du Gouverneur Damoiseaux",wikidata,M,Q110229582,way
 "Rue du Gouverneur Maurice Damoiseaux",wikidata,M,Q110229582,way
 "Rue du Musée François Duesberg",wikidata,M,Q110157287,way
+"Ruelle Maistriau",wikidata,M,Q465953,way
 "Ruelle Saint-Roch",wikidata,M,Q152457,way
 "Ruelle Spira",wikidata,M,Q129085832,way
-"Ruelle Victor Maistriaux",wikidata,M,Q465953,way
 "Sentier Mabille",wikidata,M,Q110206171,way
 "Sentier Paul Cavenaile",wikidata,M,Q128856437,way
 "Sentier Sébille",wikidata,M,Q127338354,way
-"Square Franklin Roosevelt",wikidata,M,Q8007,way
+"Square Franklin Delano Roosevelt",wikidata,M,Q8007,way
 "Square Saint-Germain",wikidata,M,Q442516,way
 "Venelle Charles Garforth",wikidata,M,Q5077412,way
 "Venelle Ernest Alexander",wikidata,M,Q5394043,way
