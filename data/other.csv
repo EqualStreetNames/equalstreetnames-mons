@@ -137,7 +137,7 @@ name,source,gender,wikidata,type
 "Place d'Obourg",wikidata,,Q2004815,way
 "Place de Briare",wikidata,,,way
 "Place de Ciply",wikidata,,Q2973295,way
-"Place de Cuesmes",wikidata,,Q2269644,relation+way
+"Place de Cuesmes",wikidata,,Q2269644,way
 "Place de Flandre",wikidata,,Q1501877,way
 "Place de Ghlin",wikidata,,Q2799765,way
 "Place de Jemappes",wikidata,,Q1686757,way
@@ -432,9 +432,10 @@ name,source,gender,wikidata,type
 "Rue du Mouligneau",wikidata,,Q185187,way
 "Rue du Moulin",wikidata,,Q44494,way
 "Rue du Moulin Paradis",wikidata,,Q130213264,way
-"Rue du Moulin d'En Haut",wikidata,,Q44494,way
+"Rue du Moulin d'en Haut",wikidata,,Q44494,way
 "Rue du Moulin de Nimy",wikidata,,Q185187,way
 "Rue du Parc",wikidata,,Q858177,way
+"Rue du Pavillon",wikidata,,Q111210988,way
 "Rue du Périsel",wikidata,,Q21763528,way
 "Rue du Petit Harvengt",wikidata,,Q2257339,way
 "Rue du Petit Marais",wikidata,,Q30198,way
@@ -504,7 +505,7 @@ name,source,gender,wikidata,type
 "Avenue des Expositions",,,,way
 "Avenue des Frondaisons",,,,way
 "Avenue du Bel Horizon",,,,way
-"Avenue du Bon-Air",,,,way
+"Avenue du Bon Air",,,,way
 "Avenue du Campiau",,,,way
 "Avenue du Centenaire",,,,way
 "Avenue du Coq",,,,way
@@ -612,6 +613,7 @@ Grand-Rue,,,,way
 "RAVeL de la Ligne 98C",,,,way
 "Rampe du Château",,,,way
 "Résidence Christina Lodges",,,,way
+"Résidence Houyoux-Guilmot",,,,way
 "Résidence Moncoureur",,,,way
 "Résidence de Milfort",,,,way
 "Résidence de la Bascule",,,,way
@@ -677,7 +679,7 @@ Grand-Rue,,,,way
 "Rue Serpentine",,,,way
 "Rue Sohier",,,,way
 "Rue Taille Coleau",,,,way
-"Rue Taillies",,,,way
+"Rue Taillie",,,,way
 "Rue Tierne Saint-Hubert",,,,way
 "Rue Tournante",,,,way
 "Rue Traversière",,,,way
@@ -751,7 +753,6 @@ Grand-Rue,,,,way
 "Rue de la Régence",,,,way
 "Rue de la Réunion",,,,way
 "Rue de la Roche",,,,way
-"Rue de la Taille Cuvelier",,,,way
 "Rue de la Taille des Mères",,,,way
 "Rue de la Taille des Vignes",,,,way
 "Rue de la Terre du Prince",,,,way
@@ -808,6 +809,7 @@ Grand-Rue,,,,way
 "Rue des Tuileries",,,,way
 "Rue des Walbrées",,,,way
 "Rue des Wartons",,,,way
+"Rue des Wez Bouleux",,,,way
 "Rue du Bas Chemin",,,,way
 "Rue du Blanc Chemin",,,,way
 "Rue du Bois",,,,way
@@ -820,6 +822,7 @@ Grand-Rue,,,,way
 "Rue du Centre",,,,way
 "Rue du Château Guillochain",,,,way
 "Rue du Coin Vert",,,,way
+"Rue du Coin de Terre",,,,way
 "Rue du Comte",,,,way
 "Rue du Court Tournant",,,,way
 "Rue du Delta",,,,way
@@ -844,7 +847,6 @@ Grand-Rue,,,,way
 "Rue du Moulin d'Havré",,,,way
 "Rue du Moulin de Spiennes",,,,way
 "Rue du Onze Novembre",,,,way
-"Rue du Pavillon",,,,relation
 "Rue du Petit Champs",,,,way
 "Rue du Petit Hornu",,,,way
 "Rue du Petit Moulin",,,,way
@@ -900,6 +902,7 @@ Grand-Rue,,,,way
 "Sentier du Cernaux",,,,way
 "Sentier du Coq",,,,way
 "Sentier vicinal N° 48",,,,way
+"Taille Cuvelier",,,,way
 "Venelle Veuve Préaux",,,,way
 "Venelle de l'Egalité",,,,way
 "Venelle des Chanoinesses",,,,way

@@ -18,7 +18,7 @@ name,source,gender,wikidata,type
 "Rue Astrid",wikidata,F,Q230238,way
 "Rue Boulangé de la Hainière",wikidata,F,Q110190241,way
 "Rue Chisaire",wikidata,F,Q129707165,way
-"Rue Éva Dupont",wikidata,F,Q110203199,way
+"Rue Eva Dupont",wikidata,F,Q110203199,way
 "Rue Gabrielle Petit",wikidata,F,Q468263,way
 "Rue Irma Fiévez",wikidata,F,Q110206808,way
 "Rue Jacqmotte",wikidata,F,Q3427151,way
@@ -38,15 +38,16 @@ name,source,gender,wikidata,type
 "Avenue Abel Dubois",wikidata,M,Q2230999,way
 "Avenue Albert Ier",wikidata,M,Q55008046,way
 "Avenue Baudouin de Constantinople",wikidata,M,Q298896,way
+"Avenue François André",wikidata,M,Q3085013,way
 "Avenue Frère Orban",wikidata,M,Q705791,way
 "Avenue Général Leman",wikidata,M,Q277876,way
 "Avenue Guibal et Devillez",wikidata,M,Q2318070;Q62023733,way
-"Avenue Gustave Maigret de Priches",wikidata,M,Q110166107,way
+"Avenue Gustave Maigret",wikidata,M,Q110166107,way
 "Avenue Jean d'Avesnes",wikidata,M,Q983084,way
 "Avenue Joseph Wauters",wikidata,M,Q585785,way
 "Avenue Léo Collard",wikidata,M,Q442199,way
 "Avenue Louis Goblet",wikidata,M,Q3262050,way
-"Avenue Maréchal Foch",wikidata,M,Q192615,way
+"Avenue Maréchal Foch",wikidata,M,Q192615;Q55008046,way
 "Avenue Nicolas Copernic",wikidata,M,Q619,way
 "Avenue Patrice Lumumba",wikidata,M,Q161672,way
 "Avenue Paul de Goussencourt",wikidata,M,Q106261355,way
@@ -152,7 +153,6 @@ name,source,gender,wikidata,type
 "Rue Dubreucq",wikidata,M,Q3087528,way
 "Rue Dumouriez",wikidata,M,Q378572,way
 "Rue Édouard Dewèze",wikidata,M,Q110230138,way
-"Rue Édouard Mouzin",wikidata,M,Q110219844,way
 "Rue Éleuthère Mercier",wikidata,M,Q110202338,way
 "Rue Émile Blairon",wikidata,M,Q110246945,way
 "Rue Émile Jambe",wikidata,M,Q110236185,way
@@ -167,9 +167,7 @@ name,source,gender,wikidata,type
 "Rue Fernand Piron",wikidata,M,Q110205583,way
 "Rue Fernand Quenon",wikidata,M,Q110205684,way
 "Rue Ferrer",wikidata,M,Q354202,way
-"Rue Fidèle Gérard",wikidata,M,Q110206315,way
 "Rue Florimond Lemoine",wikidata,M,Q110205956,way
-"Rue François André",wikidata,M,Q3085013,way
 "Rue François Fétis",wikidata,M,Q523581,way
 "Rue François Marcq",wikidata,M,Q110206076,way
 "Rue Froissart",wikidata,M,Q315000,way
@@ -178,11 +176,11 @@ name,source,gender,wikidata,type
 "Rue Georges Mabile",wikidata,M,Q110206171,way
 "Rue Georges Plumart",wikidata,M,Q110206242,way
 "Rue Georges Wattiez",wikidata,M,Q110206278,way
+"Rue Gérard",wikidata,M,Q110206315,way
 "Rue Gontrand Bachy",wikidata,M,Q110206421,way
 "Rue Guy de Brès",wikidata,M,Q1368959,way
 "Rue Hector Charlez",wikidata,M,Q110206477,way
 "Rue Hector Delanois",wikidata,M,Q110206518,way
-"Rue Hector L'Hoir",wikidata,M,Q110206578,way
 "Rue Hector Voituron",wikidata,M,Q110206593,way
 "Rue Henri Culot",wikidata,M,Q110206598,way
 "Rue Henri Deruelles",wikidata,M,Q2410703,way
@@ -219,6 +217,7 @@ name,source,gender,wikidata,type
 "Rue Léon Save",wikidata,M,Q110216314,way
 "Rue Léopold II",wikidata,M,Q12967,way
 "Rue Léopold III",wikidata,M,Q12973,way
+"Rue Lhoir",wikidata,M,Q110206578,way
 "Rue Lloyd George",wikidata,M,Q134982,way
 "Rue Louis Caty",wikidata,M,Q3261447,way
 "Rue Louis Lévêque",wikidata,M,Q110216408,way
@@ -234,6 +233,7 @@ name,source,gender,wikidata,type
 "Rue Maurice Flament",wikidata,M,Q55619992,way
 "Rue Maurice Ghislain",wikidata,M,Q110219818,way
 "Rue Molière",wikidata,M,Q687,way
+"Rue Mouzin",wikidata,M,Q110219844,way
 "Rue Nestor Dehon",wikidata,M,Q110219881,way
 "Rue Nicolas d'Hardenpont",wikidata,M,Q105814481,way
 "Rue Oscar Devreux",wikidata,M,Q130321192,way
@@ -256,7 +256,7 @@ name,source,gender,wikidata,type
 "Rue René Descartes",wikidata,M,Q9191,way
 "Rue René Noël",wikidata,M,Q3426692,way
 "Rue Richard Stiévenart",wikidata,M,Q110222736,way
-"Rue Richebé - Avenue Victor Demerbe",wikidata,M,Q110224947;Q110224381,way
+"Rue Richebé - Avenue Demerbe",wikidata,M,Q110224947;Q110224381,way
 "Rue Robert Pingot",wikidata,M,Q110225202,way
 "Rue Rogier",wikidata,M,Q468109,way
 "Rue Roland de Lassus",wikidata,M,Q154792,way
