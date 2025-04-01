@@ -161,9 +161,9 @@ name,source,gender,wikidata,type
 "Quai des Anglais",wikidata,,Q42406,way
 "Quai des Otages",wikidata,,Q192620,way
 "Rampe Borgnagache",wikidata,,Q2495957,way
+"Résidence La Prairie",wikidata,,Q7777019,way
 "Résidence Le Festinoy",wikidata,,Q106889534,way
 "Résidence du Rieu",wikidata,,Q63565252,way
-"Résidences La Prairie",wikidata,,Q7777019,way
 "Rive Droite du Canal du Centre",wikidata,,Q1032687,way
 "Rive Gauche du Canal",wikidata,,Q2434753,way
 "Route Macadamisée",wikidata,,Q301766,way
@@ -175,7 +175,7 @@ name,source,gender,wikidata,type
 "Route de Beaumont",wikidata,,Q95100,way
 "Route de Binche",wikidata,,Q95121,way
 "Route de Wallonie",wikidata,,Q83078,way
-"Rue Brisée - Rue de Binche",wikidata,,Q95121,way
+"Rue Brisée / Rue de Binche",wikidata,,Q95121,way
 "Rue Brunehaut",wikidata,,Q95132,way
 "Rue Cardinal Mercier",wikidata,,Q3389738,way
 "Rue Chant des Oiseaux",wikidata,,Q1126556,way
@@ -199,7 +199,7 @@ name,source,gender,wikidata,type
 "Rue d'Enghien",wikidata,,Q666238,way
 "Rue d'Erbisœul",wikidata,,Q3056006,way
 "Rue d'Harmignies",wikidata,,Q2231206,way
-"Rue d'Harveng",wikidata,,Q2257339,way
+"Rue d'Harvengt",wikidata,,Q2257339,way
 "Rue d'Havré",wikidata,,Q2611889,way
 "Rue d'Herchies",wikidata,,Q657668,way
 "Rue d'Hyon",wikidata,,Q2360484,way
@@ -434,6 +434,7 @@ name,source,gender,wikidata,type
 "Rue du Moulin Paradis",wikidata,,Q130213264,way
 "Rue du Moulin d'en Haut",wikidata,,Q44494,way
 "Rue du Moulin de Nimy",wikidata,,Q185187,way
+"Rue du Musée François Duesberg",wikidata,,Q2188694,way
 "Rue du Parc",wikidata,,Q858177,way
 "Rue du Pavillon",wikidata,,Q111210988,way
 "Rue du Périsel",wikidata,,Q21763528,way
@@ -528,7 +529,7 @@ name,source,gender,wikidata,type
 "Chemin Brulotte",,,,way
 "Chemin Sauvelon",,,,way
 "Chemin Vert",,,,way
-"Chemin Vert - Rue Jacquet",,,,way
+"Chemin Vert / Rue Jacquet",,,,way
 "Chemin Vert n°7",,,,way
 "Chemin Vicinal n°44",,,,way
 "Chemin à Baraques",,,,way
@@ -548,7 +549,7 @@ name,source,gender,wikidata,type
 "Chemin du Bosquetiau",,,,way
 "Chemin du Pont d'Haine",,,,way
 "Chemin du Prince",,,,way
-"Chemin du Prince - Grand Chemin",,,,way
+"Chemin du Prince / Grand Chemin",,,,way
 "Chemin vicinal N° 99",,,,way
 "Cité Balasse",,,,way
 "Cité Gaillez",,,,way
@@ -620,6 +621,7 @@ Grand-Rue,,,,way
 "Résidence des Agasses",,,,way
 "Résidence des Baudarts",,,,way
 "Résidence des Mortes Haies",,,,way
+"Résidences La Prairie",,,,way
 "Rond-Point des Baudarts",,,,way
 "Rond-Point du Pont-Canal",,,,way
 "Rond-Point du Trieu",,,,way
@@ -713,7 +715,6 @@ Grand-Rue,,,,way
 "Rue de Thirimont",,,,way
 "Rue de l'Anglais",,,,way
 "Rue de l'Athénée",,,,way
-"Rue de l'Âtre",,,,way
 "Rue de l'Auflette",,,,way
 "Rue de l'Aulnoye",,,,way
 "Rue de l'Égalité",,,,way
@@ -877,6 +878,7 @@ Grand-Rue,,,,way
 "Ruelle Pecquet",,,,way
 "Ruelle Plaquette",,,,way
 "Ruelle aux Quinettes",,,,way
+"Ruelle de l'Âtre",,,,way
 "Ruelle des Hiots",,,,way
 "Ruelle du Cerf Blanc",,,,way
 "Ruelle du Progrès",,,,way

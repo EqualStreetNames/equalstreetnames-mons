@@ -8,7 +8,7 @@ name,source,gender,wikidata,type
 "Avenue Princesse Paola",wikidata,F,Q31129,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Chaussée Brunehault",wikidata,F,Q230639,way
-"Chaussée Brunehault - Rue des Fusillés",wikidata,F,Q230639,way
+"Chaussée Brunehault / Rue des Fusillés",wikidata,F,Q230639,way
 "Chemin de la Vallière",wikidata,F,Q232125,way
 "Clos Cécile Douard",wikidata,F,Q17625500,way
 "Clos Marie Thérèse d'Autriche",wikidata,F,Q131706,way
@@ -214,7 +214,7 @@ name,source,gender,wikidata,type
 "Rue Léon Dewolf",wikidata,M,Q110216255,way
 "Rue Léon Flament",wikidata,M,Q3088162,way
 "Rue Léon Navez",wikidata,M,Q3271229,way
-"Rue Léon Save",wikidata,M,Q110216314,way
+"Rue Léon Save",wikidata,M,Q110216314;Q55619992,way
 "Rue Léopold II",wikidata,M,Q12967,way
 "Rue Léopold III",wikidata,M,Q12973,way
 "Rue Lhoir",wikidata,M,Q110206578,way
@@ -298,7 +298,6 @@ name,source,gender,wikidata,type
 "Rue du Général Leman",wikidata,M,Q277876,way
 "Rue du Gouverneur Damoiseaux",wikidata,M,Q110229582,way
 "Rue du Gouverneur Maurice Damoiseaux",wikidata,M,Q110229582,way
-"Rue du Musée François Duesberg",wikidata,M,Q110157287,way
 "Ruelle Maistriau",wikidata,M,Q465953,way
 "Ruelle Saint-Roch",wikidata,M,Q152457,way
 "Ruelle Spira",wikidata,M,Q129085832,way
