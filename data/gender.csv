@@ -54,12 +54,10 @@ name,source,gender,wikidata,type
 "Avenue Prince Albert",wikidata,M,Q152245,way
 "Avenue Roi Albert",wikidata,M,Q55008046,way
 "Avenue Saint-Fiacre",wikidata,M,Q953927,way
-"Avenue Saint-Pierre",wikidata,M,Q33923,way
 "Avenue Thomas Edison",wikidata,M,Q8743,way
 "Avenue Victor Maistriau",wikidata,M,Q465953;Q9696,way
 "Avenue Wilson",wikidata,M,Q34296,way
-"Avenue de la Capelle",wikidata,M,Q110230138,way
-"Avenue de la Chapelle",wikidata,M,Q110230138,way
+"Avenue de Saint-Pierre",wikidata,M,Q33923,way
 "Avenue des Bassins",wikidata,M,Q1414773;Q161672,way
 "Avenue du Général de Gaulle",wikidata,M,Q2042,way
 "Avenue du Gouverneur Émile Cornez",wikidata,M,Q275014,way

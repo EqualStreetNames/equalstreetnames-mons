@@ -30,6 +30,7 @@ name,source,gender,wikidata,type
 "Avenue de l'Europe",wikidata,,Q46,way
 "Avenue de l'Hôpital",wikidata,,Q16917,way
 "Avenue de l'Université",wikidata,,Q2230156,way
+"Avenue de la Chapelle",wikidata,,Q131396060,way
 "Avenue de la Faïencerie",wikidata,,Q209671,way
 "Avenue de la France",wikidata,,Q142,way
 "Avenue de la Francophonie",wikidata,,Q1003588,way
@@ -42,7 +43,7 @@ name,source,gender,wikidata,type
 "Avenue de la Wallonie",wikidata,,Q83078,way
 "Avenue des Acacias",wikidata,,Q81666,way
 "Avenue des Cèdres",wikidata,,Q128550,way
-"Avenue des Guérites",wikidata,,;Q2235514,way
+"Avenue des Guérites",wikidata,,Q2235514,way
 "Avenue des Lilas",wikidata,,Q6565319,way
 "Avenue des Mimosas",wikidata,,Q160110,way
 "Avenue des Ormes",wikidata,,Q131113,way
@@ -135,7 +136,7 @@ name,source,gender,wikidata,type
 "Place d'Harveng",wikidata,,Q2257339,way
 "Place d'Havré",wikidata,,Q2611889,way
 "Place d'Obourg",wikidata,,Q2004815,way
-"Place de Briare",wikidata,,,way
+"Place de Briare",wikidata,,Q818443,way
 "Place de Ciply",wikidata,,Q2973295,way
 "Place de Cuesmes",wikidata,,Q2269644,way
 "Place de Flandre",wikidata,,Q1501877,way
@@ -399,11 +400,11 @@ name,source,gender,wikidata,type
 "Rue du 8 Mai",wikidata,,Q622365,way
 "Rue du Béguinage",wikidata,,Q12816129,way
 "Rue du Bois Là-Haut",wikidata,,Q21767703,way
-"Rue du Bois d'Havré",wikidata,,,way
+"Rue du Bois d'Havré",wikidata,,Q21767726,way
 "Rue du Bois d'Hayon",wikidata,,Q21767729,way
 "Rue du Bois des Dames",wikidata,,Q21768599,way
 "Rue du By",wikidata,,Q2929120,way
-"Rue du Canal",wikidata,,,way
+"Rue du Canal",wikidata,,Q913134,way
 "Rue du Cerisier",wikidata,,Q3220964,way
 "Rue du Chapitre",wikidata,,Q216285,way
 "Rue du Château",wikidata,,Q520029,way
@@ -513,7 +514,7 @@ name,source,gender,wikidata,type
 "Avenue du Fort Corbeau",,,,way
 "Avenue du Millénaire",,,,way
 "Avenue du Plan Incliné",,,,way
-"Avenue du Pont-Rouge",,,,way
+"Avenue du Pont Rouge",,,,way
 "Avenue du Tir",,,,way
 "Avenue du Trou au Sable",,,,way
 "Axiale Boraine",,,,way
@@ -569,14 +570,13 @@ name,source,gender,wikidata,type
 "Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
 "Esplanade Anne-Charlotte de Lorraine",,,,way
-"Esplanade Césaria Évora",,,,way
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
-"Grand Route",,,,way
+Grand'Route,,,,way
 Grand-Place,,,,way
 Grand-Rue,,,,way
 "Green Park",,,,way
-"Impasse Béghin",,,,way
+"Impasse Beghin",,,,way
 "Impasse Desmet",,,,way
 "Impasse Faucon",,,,way
 "Impasse Montenez",,,,way
@@ -821,6 +821,7 @@ Grand-Rue,,,,way
 "Rue du Campiau",,,,way
 "Rue du Car d'Or",,,,way
 "Rue du Centre",,,,way
+"Rue du Cerf Blanc",,,,way
 "Rue du Château Guillochain",,,,way
 "Rue du Coin Vert",,,,way
 "Rue du Coin de Terre",,,,way
@@ -880,7 +881,6 @@ Grand-Rue,,,,way
 "Ruelle aux Quinettes",,,,way
 "Ruelle de l'Âtre",,,,way
 "Ruelle des Hiots",,,,way
-"Ruelle du Cerf Blanc",,,,way
 "Ruelle du Progrès",,,,way
 "Ruelle du Repos",,,,way
 "Sentier Malaquin",,,,way
