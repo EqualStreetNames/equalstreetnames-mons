@@ -13,7 +13,7 @@ name,source,gender,wikidata,type
 "Clos Cécile Douard",wikidata,F,Q17625500,way
 "Clos Marie Thérèse d'Autriche",wikidata,F,Q131706,way
 "Esplanade Cesária Évora",wikidata,F,Q103759,way
-"Place Louise",wikidata,F,Q237318,way
+"Place Louise",wikidata,F,Q72795,way
 "Rampe Sainte-Waudru",wikidata,F,Q436732,way
 "Rue Astrid",wikidata,F,Q230238,way
 "Rue Boulangé de la Hainière",wikidata,F,Q110190241,way
@@ -35,6 +35,8 @@ name,source,gender,wikidata,type
 "Rue Simone Veil",wikidata,F,Q298180,way
 "Rue de Bouzanton",wikidata,F,Q110168684,way
 "Voie Berthe",wikidata,F,Q22235960,way
+"Allée Louis Fuchs",wikidata,M,Q13103789,way
+"Allée Pol Bottriaux",wikidata,M,Q134429508,way
 "Avenue Abel Dubois",wikidata,M,Q2230999,way
 "Avenue Albert Ier",wikidata,M,Q55008046,way
 "Avenue Baudouin de Constantinople",wikidata,M,Q298896,way
@@ -187,6 +189,7 @@ name,source,gender,wikidata,type
 "Rue Henri Rapez",wikidata,M,Q110206660,way
 "Rue Henri Tournelle",wikidata,M,Q3132082,way
 "Rue Houzeau",wikidata,M,Q110206782,way
+"Rue J. Goffin",wikidata,M,Q110216035,way
 "Rue Jacques Pattey",wikidata,M,Q110220007,way
 "Rue Jacques Prévert",wikidata,M,Q165274,way
 "Rue Jacques de Fariaux",wikidata,M,Q3160278,way
@@ -206,7 +209,6 @@ name,source,gender,wikidata,type
 "Rue Jules Brabant",wikidata,M,Q11984840,way
 "Rue Jules Cornet",wikidata,M,Q3188493,way
 "Rue Jules Destrée",wikidata,M,Q522308,way
-"Rue Jules Goffin",wikidata,M,Q110216035,way
 "Rue Jules Hoyois",wikidata,M,Q110216087,way
 "Rue Lamir",wikidata,M,Q110168537,way
 "Rue Léon Dewolf",wikidata,M,Q110216255,way
@@ -258,10 +260,10 @@ name,source,gender,wikidata,type
 "Rue Robert Pingot",wikidata,M,Q110225202,way
 "Rue Rogier",wikidata,M,Q468109,way
 "Rue Roland de Lassus",wikidata,M,Q154792,way
-"Rue Saint Léger",wikidata,M,Q56163384,way
 "Rue Saint-Hubert",wikidata,M,Q159834,way
 "Rue Saint-Jean",wikidata,M,Q44015,way
 "Rue Saint-Lazare",wikidata,M,Q539890,way
+"Rue Saint-Léger",wikidata,M,Q56163384,way
 "Rue Saint-Luc",wikidata,M,Q128538,way
 "Rue Saint-Macaire",wikidata,M,Q110167908,way
 "Rue Saint-Paul",wikidata,M,Q9200,way

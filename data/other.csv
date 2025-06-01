@@ -385,7 +385,9 @@ name,source,gender,wikidata,type
 "Rue des Résistants",wikidata,,Q2094191,way
 "Rue des Robiniers",wikidata,,Q472943,way
 "Rue des Sables",wikidata,,Q34679,way
+"Rue des Sars",wikidata,,Q2523205,way
 "Rue des Sources",wikidata,,Q124714,way
+"Rue des Telliers",wikidata,,Q437512,way
 "Rue des Tourterelles",wikidata,,Q3535557,way
 "Rue des Verts Pâturages",wikidata,,Q30121,way
 "Rue des Veuves",wikidata,,Q16675060,way
@@ -559,6 +561,7 @@ name,source,gender,wikidata,type
 "Cité Urban",,,,way
 "Cité du Repos",,,,way
 "Cité du Vieux Champ",,,,way
+"Clos Albert Vienne",,,,way
 "Clos de la Barrière de Spiennes",,,,way
 "Clos de la Meulière",,,,way
 "Coron du Vingt",,,,way
@@ -593,6 +596,7 @@ Grand-Rue,,,,way
 "Piedsente du Cabinet Cossée",,,,way
 "Place d'Hyon",,,,way
 "Place de Bootle",,,,way
+"Place de Spiennes",,,,way
 "Place de la Citadelle",,,,way
 "Place de la Gare",,,,way
 "Place de la Grande Pêcherie",,,,way
@@ -604,6 +608,7 @@ Grand-Rue,,,,way
 "Place du Manège",,,,way
 "Place du Souvenir",,,,way
 "Plat Chemin",,,,way
+"Pont de Busteau",,,,way
 "Pont du Prince",,,,way
 "Quai Nord",,,,way
 "RAVeL 1",,,,way
@@ -711,7 +716,7 @@ Grand-Rue,,,,way
 "Rue de Monte-En-Peine",,,,way
 "Rue de Montreuil-sous-Bois",,,,way
 "Rue de Quaregnon - Avenue du Champ de Bataille",,,,way
-"Rue de Robertsart",,,,way
+"Rue de Robersart",,,,way
 "Rue de Thirimont",,,,way
 "Rue de l'Anglais",,,,way
 "Rue de l'Athénée",,,,way
@@ -735,7 +740,6 @@ Grand-Rue,,,,way
 "Rue de la Fraide",,,,way
 "Rue de la Genièvrerie",,,,way
 "Rue de la Goëtte",,,,way
-"Rue de la Goulette",,,,way
 "Rue de la Grosse Cotte",,,,way
 "Rue de la Grosse Pomme",,,,way
 "Rue de la Hainette",,,,way
@@ -799,11 +803,9 @@ Grand-Rue,,,,way
 "Rue des Ropieurs",,,,way
 "Rue des Sandrinettes",,,,way
 "Rue des Sangliers",,,,way
-"Rue des Sars",,,,way
 "Rue des Sinistrés",,,,way
 "Rue des Sœurs Grises",,,,way
 "Rue des Sœurs Noires",,,,way
-"Rue des Telliers",,,,way
 "Rue des Trois Boudins",,,,way
 "Rue des Trois Coulons",,,,way
 "Rue des Trois Hurées",,,,way
