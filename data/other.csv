@@ -109,7 +109,6 @@ name,source,gender,wikidata,type
 "Chemin du Golf",wikidata,,Q5377,way
 "Chemin du Houblon",wikidata,,Q104212,way
 "Chemin du Versant",wikidata,,Q3323149,way
-"Cité de Thoissey",wikidata,,Q843583,way
 "Cité du Congo",wikidata,,Q213510,way
 "Clos de l'Herbette",wikidata,,Q643352,way
 "Clos des Forgerons",wikidata,,Q1639825,way
@@ -164,6 +163,7 @@ name,source,gender,wikidata,type
 "Rampe Borgnagache",wikidata,,Q2495957,way
 "Résidence La Prairie",wikidata,,Q7777019,way
 "Résidence Le Festinoy",wikidata,,Q106889534,way
+"Résidence Thoissey",wikidata,,Q843583,way
 "Résidence du Rieu",wikidata,,Q63565252,way
 "Rive Droite du Canal du Centre",wikidata,,Q1032687,way
 "Rive Gauche du Canal",wikidata,,Q2434753,way
@@ -252,7 +252,7 @@ name,source,gender,wikidata,type
 "Rue de l'Épargne",wikidata,,Q319622,way
 "Rue de l'Europe",wikidata,,Q458,way
 "Rue de l'Heaume",wikidata,,Q757096,way
-"Rue de l'Héribus",wikidata,,Q97367479,way
+"Rue de l'Héribus",wikidata,,Q21765947,way
 "Rue de l'Indépendance",wikidata,,Q37055,way
 "Rue de l'Industrie",wikidata,,Q8148,way
 "Rue de l'Oratoire",wikidata,,Q580499,way
@@ -457,7 +457,7 @@ name,source,gender,wikidata,type
 "Rue du Sable",wikidata,,Q34679,way
 "Rue du Square",wikidata,,Q2026833,way
 "Rue du Temple",wikidata,,Q44539,way
-"Rue du Terrils",wikidata,,Q97367479,way
+"Rue du Terrils",wikidata,,Q21765947,way
 "Rue du Tournesol",wikidata,,Q171497,way
 "Rue du Travail",wikidata,,Q268378,way
 "Rue du Trieu",wikidata,,Q1258926,way
@@ -471,7 +471,7 @@ name,source,gender,wikidata,type
 "Ruelle des Pêcheurs",wikidata,,Q331432,way
 "Sentier Hubert",wikidata,,Q13728754,way
 "Sentier de Villers",wikidata,,Q3224973,way
-"Sentier de l'Héribus",wikidata,,Q97367479,way
+"Sentier de l'Héribus",wikidata,,Q21765947,way
 "Sentier de l’Église",wikidata,,Q26720745,way
 "Sentier de la Gare",wikidata,,Q55488,way
 "Sentier de la Garenne",wikidata,,Q3098286,way
@@ -729,6 +729,7 @@ Grand-Rue,,,,way
 "Rue de l'Étang Derbaix",,,,way
 "Rue de l'Hurtebise",,,,way
 "Rue de l'Orbette",,,,way
+"Rue de la Brisée",,,,way
 "Rue de la Casse",,,,way
 "Rue de la Cité",,,,way
 "Rue de la Clef",,,,way
@@ -915,3 +916,4 @@ Grand-Rue,,,,way
 "Venelle des Petits Pages",,,,way
 "Vicinal n°44",,,,way
 "Vieux Chemin de Valenciennes",,,,way
+"Voie du Moulin",,,,way
