@@ -60,7 +60,7 @@ name,source,gender,wikidata,type
 "Avenue Victor Maistriau",wikidata,M,Q465953;Q9696,way
 "Avenue Wilson",wikidata,M,Q34296,way
 "Avenue de Saint-Pierre",wikidata,M,Q33923,way
-"Avenue des Bassins",wikidata,M,Q1414773;Q161672,way
+"Avenue des Bassins",wikidata,M,Q1414773;Q2230999,way
 "Avenue du Général de Gaulle",wikidata,M,Q2042,way
 "Avenue du Gouverneur Émile Cornez",wikidata,M,Q275014,way
 "Avenue du Prince Régent",wikidata,M,Q445553,way
@@ -78,6 +78,7 @@ name,source,gender,wikidata,type
 "Chemin Saint-Antoine",wikidata,M,Q170547,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
 "Chemin de Saint-Denis",wikidata,M,Q244380,way
+"Cité Houdez",wikidata,M,Q135432549,way
 "Cité Jules Bary",wikidata,M,Q3188418,way
 "Cité Saint-Louis",wikidata,M,Q346,way
 "Clos Antoine Delobel",wikidata,M,Q110167157,way

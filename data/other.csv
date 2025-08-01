@@ -19,6 +19,7 @@ name,source,gender,wikidata,type
 "Allée des Roseaux",wikidata,,Q2734060,way
 "Allée des Saules",wikidata,,Q145889,way
 "Allée des Thuyas",wikidata,,Q147255,way
+"Allée des Tuyas",wikidata,,Q147255,way
 "Allée du Cimetière",wikidata,,Q39614,way
 "Avenue d'Hyon",wikidata,,Q2360484,way
 "Avenue d'Ottawa",wikidata,,Q1930,way
@@ -108,6 +109,7 @@ name,source,gender,wikidata,type
 "Chemin du Courtil",wikidata,,Q3001517,way
 "Chemin du Golf",wikidata,,Q5377,way
 "Chemin du Houblon",wikidata,,Q104212,way
+"Chemin du Pont d'Haine",wikidata,,Q1569447,way
 "Chemin du Versant",wikidata,,Q3323149,way
 "Cité du Congo",wikidata,,Q213510,way
 "Clos de l'Herbette",wikidata,,Q643352,way
@@ -134,6 +136,7 @@ name,source,gender,wikidata,type
 "Place Triangulaire",wikidata,,Q19821,way
 "Place d'Harveng",wikidata,,Q2257339,way
 "Place d'Havré",wikidata,,Q2611889,way
+"Place d'Hyon",wikidata,,Q2360484,way
 "Place d'Obourg",wikidata,,Q2004815,way
 "Place de Briare",wikidata,,Q818443,way
 "Place de Ciply",wikidata,,Q2973295,way
@@ -167,6 +170,7 @@ name,source,gender,wikidata,type
 "Résidence du Rieu",wikidata,,Q63565252,way
 "Rive Droite du Canal du Centre",wikidata,,Q1032687,way
 "Rive Gauche du Canal",wikidata,,Q2434753,way
+"Rond-Point du Trieu",wikidata,,Q1258926,way
 "Route Macadamisée",wikidata,,Q301766,way
 "Route Provinciale - Rue de Pâturages",wikidata,,Q2783664,way
 "Route d'Ath",wikidata,,Q95096,way
@@ -182,6 +186,7 @@ name,source,gender,wikidata,type
 "Rue Chant des Oiseaux",wikidata,,Q1126556,way
 "Rue Circulaire",wikidata,,Q17278,way
 "Rue Croisette",wikidata,,Q16553805,way
+"Rue Cybèle",wikidata,,Q135434608,way
 "Rue David",wikidata,,Q18057751,way
 "Rue Doyen",wikidata,,Q4958876,way
 "Rue Élisa",wikidata,,Q20024509,way
@@ -189,8 +194,10 @@ name,source,gender,wikidata,type
 "Rue Madeleine",wikidata,,Q4273929,way
 "Rue Notre-Dame de Tongre",wikidata,,Q2189449,way
 "Rue Petite Sorcière",wikidata,,Q1616828,way
+"Rue Polyade",wikidata,,Q135435083,way
 "Rue Sablonnière",wikidata,,Q34679,way
 "Rue Sans Coron",wikidata,,Q184150,way
+"Rue Valenciennoise",wikidata,,Q163795,way
 "Rue Vieille Haine",wikidata,,Q1569447,way
 "Rue à Degrés",wikidata,,Q1139344,way
 "Rue aux Loups",wikidata,,Q18498,way
@@ -226,6 +233,7 @@ name,source,gender,wikidata,type
 "Rue de Malplaquet",wikidata,,Q316897,way
 "Rue de Masnuy-Saint-Jean",wikidata,,Q2149433,way
 "Rue de Mons",wikidata,,Q83407,way
+"Rue de Montreuil-sous-Bois",wikidata,,Q193370,way
 "Rue de Naast",wikidata,,Q2584480,way
 "Rue de Niamey",wikidata,,Q3674,way
 "Rue de Nimy",wikidata,,Q1916957,way
@@ -233,6 +241,7 @@ name,source,gender,wikidata,type
 "Rue de Pâturages",wikidata,,Q2783664,way
 "Rue de Péronnes",wikidata,,Q693190,way
 "Rue de Quaregnon",wikidata,,Q538735,way
+"Rue de Robersart",wikidata,,Q962298,way
 "Rue de Roumanie",wikidata,,Q218,way
 "Rue de Saint-Denis",wikidata,,Q3462070,way
 "Rue de Spiennes",wikidata,,Q913623,way
@@ -247,9 +256,12 @@ name,source,gender,wikidata,type
 "Rue de l'Argilière",wikidata,,Q179316,way
 "Rue de l'Armistice",wikidata,,Q107706,way
 "Rue de l'Arsenal",wikidata,,Q81669,way
+"Rue de l'Athénée",wikidata,,Q134606160,way
 "Rue de l'Aubrecheuil",wikidata,,Q2129322,way
 "Rue de l'Aviation",wikidata,,Q765633,way
+"Rue de l'Enseignement",wikidata,,Q352842,way
 "Rue de l'Épargne",wikidata,,Q319622,way
+"Rue de l'Espinette",wikidata,,Q623941,way
 "Rue de l'Europe",wikidata,,Q458,way
 "Rue de l'Heaume",wikidata,,Q757096,way
 "Rue de l'Héribus",wikidata,,Q21765947,way
@@ -290,6 +302,7 @@ name,source,gender,wikidata,type
 "Rue de la Malogne",wikidata,,Q16764428,way
 "Rue de la Motte",wikidata,,Q92062,way
 "Rue de la Mottelette",wikidata,,Q92062,way
+"Rue de la Mutualité",wikidata,,Q2835959,way
 "Rue de la Paix",wikidata,,Q454,way
 "Rue de la Petite Boucherie",wikidata,,Q13164546,way
 "Rue de la Petite Guirlande",wikidata,,Q756600,way
@@ -316,6 +329,7 @@ name,source,gender,wikidata,type
 "Rue des Amis",wikidata,,Q491,way
 "Rue des Amoureux",wikidata,,Q1823911,way
 "Rue des Anglais",wikidata,,Q42406,way
+"Rue des Apôtres",wikidata,,Q43412,way
 "Rue des Arbalestriers",wikidata,,Q2859615,way
 "Rue des Archers",wikidata,,Q890527,way
 "Rue des Arquebusiers",wikidata,,Q3621523,way
@@ -335,6 +349,7 @@ name,source,gender,wikidata,type
 "Rue des Champs",wikidata,,Q6669413,way
 "Rue des Chartriers",wikidata,,Q2961301,way
 "Rue des Cheminots",wikidata,,Q7063944,way
+"Rue des Chinchins",wikidata,,Q135436066,way
 "Rue des Chrysanthèmes",wikidata,,Q15102622,way
 "Rue des Clercs",wikidata,,Q16031864,way
 "Rue des Collines",wikidata,,Q54050,way
@@ -345,6 +360,7 @@ name,source,gender,wikidata,type
 "Rue des Croix du Feu",wikidata,,Q1329385,way
 "Rue des Dames",wikidata,,Q21768599,way
 "Rue des Déportés",wikidata,,Q379693,way
+"Rue des Diables",wikidata,,Q135436541,way
 "Rue des Dominicains",wikidata,,Q131479,way
 "Rue des Droits de l'Homme",wikidata,,Q8458,way
 "Rue des Échelles",wikidata,,Q168639,way
@@ -362,7 +378,9 @@ name,source,gender,wikidata,type
 "Rue des Géraniums",wikidata,,Q157211,way
 "Rue des Glycines",wikidata,,Q261903,way
 "Rue des Grands Prés",wikidata,,Q3233078,way
+"Rue des Groseilliers",wikidata,,Q22691,way
 "Rue des Guimauves",wikidata,,Q158496,way
+"Rue des Hommes Blancs",wikidata,,Q135436431,way
 "Rue des Iris",wikidata,,Q156901,way
 "Rue des Juifs",wikidata,,Q7325,way
 "Rue des Kiévrois",wikidata,,Q95318,way
@@ -375,6 +393,7 @@ name,source,gender,wikidata,type
 "Rue des Patriotes",wikidata,,Q6241,way
 "Rue des Pensionnés",wikidata,,Q946865,way
 "Rue des Pierres",wikidata,,Q121649,way
+"Rue des Pinsons",wikidata,,Q30241,way
 "Rue des Pivoines",wikidata,,Q147105,way
 "Rue des Préelles",wikidata,,Q108141955,way
 "Rue des Prés Verts",wikidata,,Q7777019,way
@@ -389,6 +408,7 @@ name,source,gender,wikidata,type
 "Rue des Sources",wikidata,,Q124714,way
 "Rue des Telliers",wikidata,,Q437512,way
 "Rue des Tourterelles",wikidata,,Q3535557,way
+"Rue des Trois Coulons",wikidata,,Q138756,way
 "Rue des Verts Pâturages",wikidata,,Q30121,way
 "Rue des Veuves",wikidata,,Q16675060,way
 "Rue des Viaducs",wikidata,,Q181348,way
@@ -401,12 +421,14 @@ name,source,gender,wikidata,type
 "Rue du 6 Novembre",wikidata,,Q855271,way
 "Rue du 8 Mai",wikidata,,Q622365,way
 "Rue du Béguinage",wikidata,,Q12816129,way
+"Rue du Bois Brulé",wikidata,,Q21770505,way
 "Rue du Bois Là-Haut",wikidata,,Q21767703,way
 "Rue du Bois d'Havré",wikidata,,Q21767726,way
 "Rue du Bois d'Hayon",wikidata,,Q21767729,way
 "Rue du Bois des Dames",wikidata,,Q21768599,way
 "Rue du By",wikidata,,Q2929120,way
 "Rue du Canal",wikidata,,Q913134,way
+"Rue du Car d'Or",wikidata,,Q127419088,way
 "Rue du Cerisier",wikidata,,Q3220964,way
 "Rue du Chapitre",wikidata,,Q216285,way
 "Rue du Château",wikidata,,Q520029,way
@@ -425,6 +447,7 @@ name,source,gender,wikidata,type
 "Rue du Grand Courant",wikidata,,Q21767676,way
 "Rue du Grand Marais",wikidata,,Q30198,way
 "Rue du Haut Flénu",wikidata,,Q2800592,way
+"Rue du Hautbois",wikidata,,Q8377,way
 "Rue du Home",wikidata,,Q22908,way
 "Rue du Joncquois",wikidata,,Q158480,way
 "Rue du Marais",wikidata,,Q30198,way
@@ -435,6 +458,7 @@ name,source,gender,wikidata,type
 "Rue du Mouligneau",wikidata,,Q185187,way
 "Rue du Moulin",wikidata,,Q44494,way
 "Rue du Moulin Paradis",wikidata,,Q130213264,way
+"Rue du Moulin d'Havré",wikidata,,Q135422383,way
 "Rue du Moulin d'en Haut",wikidata,,Q44494,way
 "Rue du Moulin de Nimy",wikidata,,Q185187,way
 "Rue du Musée François Duesberg",wikidata,,Q2188694,way
@@ -479,11 +503,16 @@ name,source,gender,wikidata,type
 "Sentier des Boraines",wikidata,,Q182920,way
 "Sentier des Buses",wikidata,,Q3251488,way
 "Sentier des Maraichers",wikidata,,Q143970,way
+"Sentier des Rogneaux",wikidata,,Q3439692,way
 "Sentier du Vicaire",wikidata,,Q193364,way
 "Square Europe",wikidata,,Q458,way
 "Square de la Résistance",wikidata,,Q2094191,way
 "Venelle de la Paix",wikidata,,Q454,way
 "Venelle de la Résistance",wikidata,,Q2094191,way
+"Venelle des Chanoinesses",wikidata,,Q913870,way
+"Venelle des Hallebardiers",wikidata,,Q3126109,way
+"Venelle des Hommes de Feuilles",wikidata,,Q135435884,way
+"Venelle des Petits Pages",wikidata,,Q135436639,way
 "Vieille Chaussée de Maubeuge",wikidata,,Q138648,way
 "Vieux Chemin de Binche",wikidata,,Q95121,way
 "Vieux Chemin de Givry",wikidata,,Q3108212,way
@@ -497,7 +526,6 @@ name,source,gender,wikidata,type
 "Allée des Hêtres",,,,way
 "Allée des Merisiers",,,,way
 "Allée des Platanes",,,,way
-"Allée des Tuyas",,,,way
 "Autoroute de Wallonie",,,,way
 "Avenue Benoite",,,,way
 "Avenue Floréal",,,,way
@@ -550,13 +578,11 @@ name,source,gender,wikidata,type
 "Chemin des Wartons",,,,way
 "Chemin du Bois",,,,way
 "Chemin du Bosquetiau",,,,way
-"Chemin du Pont d'Haine",,,,way
 "Chemin du Prince",,,,way
 "Chemin du Prince / Grand Chemin",,,,way
 "Chemin vicinal N° 99",,,,way
 "Cité Balasse",,,,way
 "Cité Gaillez",,,,way
-"Cité Houdez",,,,way
 "Cité Morette",,,,way
 "Cité Urban",,,,way
 "Cité du Repos",,,,way
@@ -594,7 +620,6 @@ Grand-Rue,,,,way
 "Pavé du Vingt",,,,way
 "Petit Passage",,,,way
 "Piedsente du Cabinet Cossée",,,,way
-"Place d'Hyon",,,,way
 "Place de Bootle",,,,way
 "Place de Spiennes",,,,way
 "Place de la Citadelle",,,,way
@@ -629,7 +654,6 @@ Grand-Rue,,,,way
 "Résidences La Prairie",,,,way
 "Rond-Point des Baudarts",,,,way
 "Rond-Point du Pont-Canal",,,,way
-"Rond-Point du Trieu",,,,way
 "Route Industrielle",,,,way
 "Rue Barbet",,,,way
 "Rue Baron Dubois de Chantraine",,,,way
@@ -647,7 +671,6 @@ Grand-Rue,,,,way
 "Rue Colinet",,,,way
 "Rue Courte",,,,way
 "Rue Cronque",,,,way
-"Rue Cybèle",,,,way
 "Rue Delpierre",,,,way
 "Rue Demalzine",,,,way
 "Rue Devaux",,,,way
@@ -679,7 +702,6 @@ Grand-Rue,,,,way
 "Rue Nouvelle Chasse",,,,way
 "Rue Périer",,,,way
 "Rue Piedsente du Moulin",,,,way
-"Rue Polyade",,,,way
 "Rue Quewette",,,,way
 "Rue Rachot",,,,way
 "Rue Sainte Félicité",,,,way
@@ -691,7 +713,6 @@ Grand-Rue,,,,way
 "Rue Tournante",,,,way
 "Rue Traversière",,,,way
 "Rue Trois Crampons",,,,way
-"Rue Valenciennoise",,,,way
 "Rue Verte",,,,way
 "Rue Vieille Chasse",,,,way
 "Rue Vieille Église",,,,way
@@ -714,18 +735,13 @@ Grand-Rue,,,,way
 "Rue de Milfort",,,,way
 "Rue de Mont Bernard",,,,way
 "Rue de Monte-En-Peine",,,,way
-"Rue de Montreuil-sous-Bois",,,,way
 "Rue de Quaregnon - Avenue du Champ de Bataille",,,,way
-"Rue de Robersart",,,,way
 "Rue de Thirimont",,,,way
 "Rue de l'Anglais",,,,way
-"Rue de l'Athénée",,,,way
 "Rue de l'Auflette",,,,way
 "Rue de l'Aulnoye",,,,way
 "Rue de l'Égalité",,,,way
 "Rue de l'Église",,,,way
-"Rue de l'Enseignement",,,,way
-"Rue de l'Espinette",,,,way
 "Rue de l'Étang Derbaix",,,,way
 "Rue de l'Hurtebise",,,,way
 "Rue de l'Orbette",,,,way
@@ -747,7 +763,6 @@ Grand-Rue,,,,way
 "Rue de la Haye Fourrée",,,,way
 "Rue de la Limite",,,,way
 "Rue de la Mine",,,,way
-"Rue de la Mutualité",,,,way
 "Rue de la Peine Perdue",,,,way
 "Rue de la Perche",,,,way
 "Rue de la Petite Bruyère",,,,way
@@ -764,7 +779,6 @@ Grand-Rue,,,,way
 "Rue de la Terre du Prince",,,,way
 "Rue de la Vignette",,,,way
 "Rue des Anneaux",,,,way
-"Rue des Apôtres",,,,way
 "Rue des Ayettes",,,,way
 "Rue des Berceaux",,,,way
 "Rue des Blanches Fontaines",,,,way
@@ -774,28 +788,23 @@ Grand-Rue,,,,way
 "Rue des Caches",,,,way
 "Rue des Cailles",,,,way
 "Rue des Castillons",,,,way
-"Rue des Chinchins",,,,way
 "Rue des Cinq Visages",,,,way
 "Rue des Clairs Logis",,,,way
 "Rue des Croix",,,,way
 "Rue des Croix Projetées",,,,way
-"Rue des Diables",,,,way
 "Rue des Durmenés",,,,way
 "Rue des Écoles",,,,way
 "Rue des Fillettes",,,,way
 "Rue des Fossés",,,,way
 "Rue des Frères",,,,way
 "Rue des Gaillers",,,,way
-"Rue des Groseilliers",,,,way
 "Rue des Hiots",,,,way
-"Rue des Hommes Blancs",,,,way
 "Rue des Marcottes",,,,way
 "Rue des Moineaux",,,,way
 "Rue des Nations",,,,way
 "Rue des Passages",,,,way
 "Rue des Phosphates",,,,way
 "Rue des Pierres à Fusil",,,,way
-"Rue des Pinsons",,,,way
 "Rue des Postes",,,,way
 "Rue des Prés Sauvages",,,,way
 "Rue des Produits",,,,way
@@ -808,7 +817,6 @@ Grand-Rue,,,,way
 "Rue des Sœurs Grises",,,,way
 "Rue des Sœurs Noires",,,,way
 "Rue des Trois Boudins",,,,way
-"Rue des Trois Coulons",,,,way
 "Rue des Trois Hurées",,,,way
 "Rue des Tuileries",,,,way
 "Rue des Walbrées",,,,way
@@ -817,12 +825,10 @@ Grand-Rue,,,,way
 "Rue du Bas Chemin",,,,way
 "Rue du Blanc Chemin",,,,way
 "Rue du Bois",,,,way
-"Rue du Bois Brulé",,,,way
 "Rue du Bois d'Arras",,,,way
 "Rue du Brocqueroy",,,,way
 "Rue du Camp",,,,way
 "Rue du Campiau",,,,way
-"Rue du Car d'Or",,,,way
 "Rue du Centre",,,,way
 "Rue du Cerf Blanc",,,,way
 "Rue du Château Guillochain",,,,way
@@ -843,13 +849,11 @@ Grand-Rue,,,,way
 "Rue du Grand Pont",,,,way
 "Rue du Grand Trait - Avenue du Champ de Bataille",,,,way
 "Rue du Grand Trou Oudart",,,,way
-"Rue du Hautbois",,,,way
 "Rue du Kêne à Caimont",,,,way
 "Rue du Levant",,,,way
 "Rue du Loriot",,,,way
 "Rue du Miroir",,,,way
 "Rue du Moulin au Bois",,,,way
-"Rue du Moulin d'Havré",,,,way
 "Rue du Moulin de Spiennes",,,,way
 "Rue du Onze Novembre",,,,way
 "Rue du Petit Champs",,,,way
@@ -900,7 +904,6 @@ Grand-Rue,,,,way
 "Sentier des Morts",,,,way
 "Sentier des Pendants",,,,way
 "Sentier des Planches",,,,way
-"Sentier des Rogneaux",,,,way
 "Sentier des Sureaux",,,,way
 "Sentier des Vaches",,,,way
 "Sentier du Bois",,,,way
@@ -910,10 +913,6 @@ Grand-Rue,,,,way
 "Taille Cuvelier",,,,way
 "Venelle Veuve Préaux",,,,way
 "Venelle de l'Egalité",,,,way
-"Venelle des Chanoinesses",,,,way
-"Venelle des Hallebardiers",,,,way
-"Venelle des Hommes de Feuilles",,,,way
-"Venelle des Petits Pages",,,,way
 "Vicinal n°44",,,,way
 "Vieux Chemin de Valenciennes",,,,way
 "Voie du Moulin",,,,way
