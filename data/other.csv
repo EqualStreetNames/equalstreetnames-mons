@@ -6,7 +6,7 @@ name,source,gender,wikidata,type
 "Allée des Champs de Blé",wikidata,,Q15645384,way
 "Allée des Chardons",wikidata,,Q538906,way
 "Allée des Charmilles",wikidata,,Q2961103,way
-"Allée des Cytises",wikidata,,Q16033439,way
+"Allée des Cytises",wikidata,,Q157226,way
 "Allée des Frênes",wikidata,,Q128887,way
 "Allée des Jasmins",wikidata,,Q82014,way
 "Allée des Lauriers",wikidata,,Q26006,way
@@ -15,11 +15,10 @@ name,source,gender,wikidata,type
 "Allée des Noisetiers",wikidata,,Q145889,way
 "Allée des Oiseaux",wikidata,,Q5113,way
 "Allée des Pins",wikidata,,Q12024,way
-"Allée des Plantes Sauvages",wikidata,,Q19335703,way
+"Allée des Plantes Sauvages",wikidata,,Q2570868,way
 "Allée des Roseaux",wikidata,,Q2734060,way
 "Allée des Saules",wikidata,,Q145889,way
 "Allée des Thuyas",wikidata,,Q147255,way
-"Allée des Tuyas",wikidata,,Q147255,way
 "Allée du Cimetière",wikidata,,Q39614,way
 "Avenue d'Hyon",wikidata,,Q2360484,way
 "Avenue d'Ottawa",wikidata,,Q1930,way
@@ -171,7 +170,6 @@ name,source,gender,wikidata,type
 "Rive Droite du Canal du Centre",wikidata,,Q1032687,way
 "Rive Gauche du Canal",wikidata,,Q2434753,way
 "Rond-Point du Trieu",wikidata,,Q1258926,way
-"Route Macadamisée",wikidata,,Q301766,way
 "Route Provinciale - Rue de Pâturages",wikidata,,Q2783664,way
 "Route d'Ath",wikidata,,Q95096,way
 "Route d'Eugies",wikidata,,Q2121412,way
@@ -191,8 +189,9 @@ name,source,gender,wikidata,type
 "Rue Doyen",wikidata,,Q4958876,way
 "Rue Élisa",wikidata,,Q20024509,way
 "Rue Emmaüs",wikidata,,Q17176514,way
+"Rue Macadamisée",wikidata,,Q301766,way
 "Rue Madeleine",wikidata,,Q4273929,way
-"Rue Notre-Dame de Tongre",wikidata,,Q2189449,way
+"Rue Notre-Dame de Tongres",wikidata,,Q2189449,way
 "Rue Petite Sorcière",wikidata,,Q1616828,way
 "Rue Polyade",wikidata,,Q135435083,way
 "Rue Sablonnière",wikidata,,Q34679,way
@@ -274,7 +273,7 @@ name,source,gender,wikidata,type
 "Rue de la Boulangerie",wikidata,,Q274393,way
 "Rue de la Briqueterie",wikidata,,Q40089,way
 "Rue de la Butte",wikidata,,Q1584134,way
-"Rue de la Cascade",wikidata,,Q1046834,way
+"Rue de la Cascade",wikidata,,Q34038,way
 "Rue de la Chaussée",wikidata,,Q194029,way
 "Rue de la Chênaie",wikidata,,Q2972109,way
 "Rue de la Cimenterie",wikidata,,Q45190,way
@@ -346,8 +345,9 @@ name,source,gender,wikidata,type
 "Rue des Capucins",wikidata,,Q124862,way
 "Rue des Carrières",wikidata,,Q188040,way
 "Rue des Casemates",wikidata,,Q89521,way
-"Rue des Champs",wikidata,,Q6669413,way
+"Rue des Champs",wikidata,,Q188869,way
 "Rue des Chartriers",wikidata,,Q2961301,way
+"Rue des Chaufours",wikidata,,Q59772,way
 "Rue des Cheminots",wikidata,,Q7063944,way
 "Rue des Chinchins",wikidata,,Q135436066,way
 "Rue des Chrysanthèmes",wikidata,,Q15102622,way
@@ -385,7 +385,7 @@ name,source,gender,wikidata,type
 "Rue des Juifs",wikidata,,Q7325,way
 "Rue des Kiévrois",wikidata,,Q95318,way
 "Rue des Laminoirs",wikidata,,Q1049792,way
-"Rue des Maraichers",wikidata,,Q19914236,way
+"Rue des Maraîchers",wikidata,,Q19914236,way
 "Rue des Martyrs",wikidata,,Q6498826,way
 "Rue des Muguets",wikidata,,Q101711,way
 "Rue des Œillets",wikidata,,Q3237652,way
@@ -481,7 +481,7 @@ name,source,gender,wikidata,type
 "Rue du Sable",wikidata,,Q34679,way
 "Rue du Square",wikidata,,Q2026833,way
 "Rue du Temple",wikidata,,Q44539,way
-"Rue du Terrils",wikidata,,Q21765947,way
+"Rue du Terril",wikidata,,Q21765947,way
 "Rue du Tournesol",wikidata,,Q171497,way
 "Rue du Travail",wikidata,,Q268378,way
 "Rue du Trieu",wikidata,,Q1258926,way
@@ -502,7 +502,7 @@ name,source,gender,wikidata,type
 "Sentier de la Soupe Populaire",wikidata,,Q2142654,way
 "Sentier des Boraines",wikidata,,Q182920,way
 "Sentier des Buses",wikidata,,Q3251488,way
-"Sentier des Maraichers",wikidata,,Q143970,way
+"Sentier des Maraîchers",wikidata,,Q19914236,way
 "Sentier des Rogneaux",wikidata,,Q3439692,way
 "Sentier du Vicaire",wikidata,,Q193364,way
 "Square Europe",wikidata,,Q458,way
@@ -620,6 +620,7 @@ Grand-Rue,,,,way
 "Pavé du Vingt",,,,way
 "Petit Passage",,,,way
 "Piedsente du Cabinet Cossée",,,,way
+"Place Vervoort",,,,way
 "Place de Bootle",,,,way
 "Place de Spiennes",,,,way
 "Place de la Citadelle",,,,way
@@ -651,10 +652,10 @@ Grand-Rue,,,,way
 "Résidence des Agasses",,,,way
 "Résidence des Baudarts",,,,way
 "Résidence des Mortes Haies",,,,way
-"Résidences La Prairie",,,,way
 "Rond-Point des Baudarts",,,,way
 "Rond-Point du Pont-Canal",,,,way
 "Route Industrielle",,,,way
+"Route Macadamisée",,,,way
 "Rue Barbet",,,,way
 "Rue Baron Dubois de Chantraine",,,,way
 "Rue Basse",,,,way
@@ -724,7 +725,7 @@ Grand-Rue,,,,way
 "Rue de Beauval",,,,way
 "Rue de Binche - Chemin de Binche",,,,way
 "Rue de Brocqueroie",,,,way
-"Rue de Cache-Après",,,,way
+"Rue de Cache Après",,,,way
 "Rue de Cantimpret",,,,way
 "Rue de Caraman",,,,way
 "Rue de Courbie",,,,way
@@ -859,7 +860,6 @@ Grand-Rue,,,,way
 "Rue du Petit Champs",,,,way
 "Rue du Petit Hornu",,,,way
 "Rue du Petit Moulin",,,,way
-"Rue du Petit Spienne",,,,way
 "Rue du Petit Spiennes",,,,way
 "Rue du Petit Versailles",,,,way
 "Rue du Peuple",,,,way

@@ -9,7 +9,7 @@ name,source,gender,wikidata,type
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Chaussée Brunehault",wikidata,F,Q230639,way
 "Chaussée Brunehault / Rue des Fusillés",wikidata,F,Q230639,way
-"Chemin de la Vallière",wikidata,F,Q232125,way
+"Chemin de La Vallière",wikidata,F,Q232125,way
 "Clos Cécile Douard",wikidata,F,Q17625500,way
 "Clos Marie-Thérèse d'Autriche",wikidata,F,Q131706,way
 "Esplanade Cesária Évora",wikidata,F,Q103759,way
@@ -125,7 +125,6 @@ name,source,gender,wikidata,type
 "Rue Aramis Tournay",wikidata,M,Q110178777,way
 "Rue Arthur Collier",wikidata,M,Q110243219,way
 "Rue Arthur Duquesne",wikidata,M,Q110179071,way
-"Rue Arthur Duquesnes",wikidata,M,Q110179071,way
 "Rue Arthur Durant",wikidata,M,Q110179462,way
 "Rue Arthur Jauniaux",wikidata,M,Q15324440,way
 "Rue Auguste Capron",wikidata,M,Q110179679,way
