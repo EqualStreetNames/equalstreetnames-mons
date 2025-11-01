@@ -522,7 +522,6 @@ name,source,gender,wikidata,type
 "Voie Américaine",wikidata,-,Q846570,way
 "Voie de Wasmes",wikidata,-,Q2350085,way
 "Avenue des Bassins",wikidata,?,Q1414773;Q2230999,way
-"Boulevard Fulgence Masson",wikidata,?,Q1501877;Q771562,way
 "Avenue Edith Cavell",wikidata,F,Q237564,way
 "Avenue Isabelle Blume",wikidata,F,Q373455,way
 "Avenue Mélina Mercouri",wikidata,F,Q228611,way
@@ -589,10 +588,11 @@ name,source,gender,wikidata,type
 "Boulevard André Delvaux",wikidata,M,Q518295,way
 "Boulevard Charles Quint",wikidata,M,Q32500,way
 "Boulevard Dolez",wikidata,M,Q2516001,way
+"Boulevard Fulgence Masson",wikidata,M,Q771562,way
 "Boulevard Gendebien",wikidata,M,Q693047,way
 "Boulevard Sainctelette",wikidata,M,Q1814380,way
 "Boulevard Winston Churchill",wikidata,M,Q8016,way
-"Boulevard du Président Kennedy",wikidata,M,Q9696,way
+"Boulevard du Président Kennedy",wikidata,M,Q771562,way
 "Chaussée du Roi Baudouin",wikidata,M,Q12976,way
 "Chemin Saint-Antoine",wikidata,M,Q170547,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
@@ -730,6 +730,7 @@ name,source,gender,wikidata,type
 "Rue Jules Destrée",wikidata,M,Q522308,way
 "Rue Jules Hoyois",wikidata,M,Q110216087,way
 "Rue Lamir",wikidata,M,Q110168537,way
+"Rue Leman",wikidata,M,Q277876,way
 "Rue Léon Dewolf",wikidata,M,Q110216255,way
 "Rue Léon Flament",wikidata,M,Q3088162,way
 "Rue Léon Navez",wikidata,M,Q3271229,way
@@ -814,7 +815,6 @@ name,source,gender,wikidata,type
 "Rue du Chanoine Puissant",wikidata,M,Q3047971,way
 "Rue du Docteur Liénard",wikidata,M,Q110229566,way
 "Rue du Faubourg Saint-Barthélémy",wikidata,M,Q43982,way
-"Rue du Général Leman",wikidata,M,Q277876,way
 "Rue du Gouverneur Damoiseaux",wikidata,M,Q110229582,way
 "Rue du Gouverneur Maurice Damoiseaux",wikidata,M,Q110229582,way
 "Ruelle Maistriau",wikidata,M,Q465953,way
