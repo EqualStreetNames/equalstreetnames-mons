@@ -189,7 +189,6 @@ name,source,gender,wikidata,type
 "Rue Croisette",wikidata,-,Q16553805,way
 "Rue Cybèle",wikidata,-,Q135434608,way
 "Rue David",wikidata,-,Q18057751,way
-"Rue Doyen",wikidata,-,Q4958876,way
 "Rue Élisa",wikidata,-,Q20024509,way
 "Rue Emmaüs",wikidata,-,Q17176514,way
 "Rue Macadamisée",wikidata,-,Q301766,way
@@ -453,6 +452,7 @@ name,source,gender,wikidata,type
 "Rue du Hautbois",wikidata,-,Q8377,way
 "Rue du Home",wikidata,-,Q22908,way
 "Rue du Joncquois",wikidata,-,Q158480,way
+"Rue du Lumeçon",wikidata,-,Q134942328,way
 "Rue du Marais",wikidata,-,Q30198,way
 "Rue du Marais à Criquelions",wikidata,-,Q21765700,way
 "Rue du Marché",wikidata,-,Q330284,way
@@ -506,6 +506,7 @@ name,source,gender,wikidata,type
 "Sentier des Boraines",wikidata,-,Q182920,way
 "Sentier des Buses",wikidata,-,Q3251488,way
 "Sentier des Maraîchers",wikidata,-,Q19914236,way
+"Sentier des Poètes",wikidata,-,Q49757,way
 "Sentier des Rogneaux",wikidata,-,Q3439692,way
 "Sentier du Vicaire",wikidata,-,Q193364,way
 "Square Europe",wikidata,-,Q458,way
@@ -538,6 +539,7 @@ name,source,gender,wikidata,type
 "Rue Astrid",wikidata,F,Q230238,way
 "Rue Boulangé de la Hainière",wikidata,F,Q110190241,way
 "Rue Chisaire",wikidata,F,Q129707165,way
+"Rue Claire Lejeune",wikidata,F,Q21192312,way
 "Rue Eva Dupont",wikidata,F,Q110203199,way
 "Rue Gabrielle Petit",wikidata,F,Q468263,way
 "Rue Irma Fiévez",wikidata,F,Q110206808,way
@@ -669,6 +671,7 @@ name,source,gender,wikidata,type
 "Rue Docteur Albert Schweitzer",wikidata,M,Q49325,way
 "Rue Docteur Jacquerye",wikidata,M,Q110246716,way
 "Rue Docteur Wolkas",wikidata,M,Q110246920,way
+"Rue Doyen",wikidata,M,Q136881218,way
 "Rue Dubreucq",wikidata,M,Q3087528,way
 "Rue Dumouriez",wikidata,M,Q378572,way
 "Rue Édouard Dewèze",wikidata,M,Q110230138,way
@@ -762,6 +765,7 @@ name,source,gender,wikidata,type
 "Rue Paul Dufour",wikidata,M,Q8324496,way
 "Rue Paul Verlaine",wikidata,M,Q755,way
 "Rue Paul-Henri Spaak",wikidata,M,Q155691,way
+"Rue Philibert Delmotte",wikidata,M,Q43293277,way
 "Rue Philippe Capiaumont",wikidata,M,Q110220300,way
 "Rue Pierre Dewit",wikidata,M,Q110220319,way
 "Rue Pierre Dunan",wikidata,M,Q110221573,way
