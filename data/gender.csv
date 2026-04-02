@@ -598,7 +598,6 @@ name,source,gender,wikidata,type
 "Chaussée du Roi Baudouin",wikidata,M,Q12976,way
 "Chemin Saint-Antoine",wikidata,M,Q170547,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
-"Chemin de Saint-Denis",wikidata,M,Q244380,way
 "Cité Houdez",wikidata,M,Q135432549,way
 "Cité Jules Bary",wikidata,M,Q3188418,way
 "Cité Saint-Louis",wikidata,M,Q346,way
@@ -692,6 +691,7 @@ name,source,gender,wikidata,type
 "Rue Florimond Lemoine",wikidata,M,Q110205956,way
 "Rue François Fétis",wikidata,M,Q523581,way
 "Rue François Marcq",wikidata,M,Q110206076,way
+"Rue Frebutte",wikidata,M,Q244380,way
 "Rue Froissart",wikidata,M,Q315000,way
 "Rue Galilée",wikidata,M,Q307,way
 "Rue Georges Delporte",wikidata,M,Q110236527,way
