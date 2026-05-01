@@ -1,12 +1,6 @@
 name,source,gender,wikidata,type
 "Aire du Bois du Gard (Nord)",,,,way
 "Aire du Bois du Gard Sud",,,,way
-"Allée des Châtaigniers",,,,way
-"Allée des Chênes",,,,way
-"Allée des Érables",,,,way
-"Allée des Hêtres",,,,way
-"Allée des Merisiers",,,,way
-"Allée des Platanes",,,,way
 "Autoroute de Wallonie",,,,way
 "Avenue Benoite",,,,way
 "Avenue Floréal",,,,way
@@ -14,14 +8,12 @@ name,source,gender,wikidata,type
 "Avenue de la Chasse Royale",,,,way
 "Avenue de la Grande Barre",,,,way
 "Avenue de la Shangri",,,,way
-"Avenue des Espinois",,,,way
 "Avenue des Expositions",,,,way
 "Avenue des Frondaisons",,,,way
 "Avenue du Bel Horizon",,,,way
 "Avenue du Bon Air",,,,way
 "Avenue du Campiau",,,,way
 "Avenue du Centenaire",,,,way
-"Avenue du Coq",,,,way
 "Avenue du Fort Corbeau",,,,way
 "Avenue du Millénaire",,,,way
 "Avenue du Plan Incliné",,,,way
@@ -37,7 +29,7 @@ name,source,gender,wikidata,type
 "Chasse Montignies",,,,way
 "Chasse du Bon Dieu",,,,way
 "Chemin Belle-Vue",,,,way
-"Chemin Bouteillier",,,,way
+"Chemin Bouteiller",,,,way
 "Chemin Brulotte",,,,way
 "Chemin Sauvelon",,,,way
 "Chemin Vert",,,,way
@@ -47,28 +39,26 @@ name,source,gender,wikidata,type
 "Chemin à Baraques",,,,way
 "Chemin d'Adresse",,,,way
 "Chemin d'Erbeleu",,,,way
-"Chemin de Binche",,,,way
 "Chemin de la Couture de l'Abbaye",,,,way
 "Chemin de la Cure d'Air",,,,way
 "Chemin de la Flache",,,,way
 "Chemin de la Fontaine à l'Aulnoye",,,,way
 "Chemin de la Grande Bruyère",,,,way
 "Chemin de la Masure",,,,way
-"Chemin des Écoliers",,,,way
-"Chemin des Tuileries",,,,way
 "Chemin des Wartons",,,,way
 "Chemin du Bois",,,,way
 "Chemin du Bosquetiau",,,,way
 "Chemin du Prince",,,,way
 "Chemin du Prince / Grand Chemin",,,,way
 "Chemin vicinal N° 99",,,,way
-"Cité Balasse",,,,way
 "Cité Gaillez",,,,way
 "Cité Morette",,,,way
 "Cité Urban",,,,way
+"Cité des Épinois",,,,way
 "Cité du Repos",,,,way
 "Cité du Vieux Champ",,,,way
-"Clos Albert Vienne",,,,way
+"Clos Balasse",,,,way
+"Clos John Henry Parr",,,,way
 "Clos de la Barrière de Spiennes",,,,way
 "Clos de la Meulière",,,,way
 "Coron du Vingt",,,,way
@@ -79,7 +69,6 @@ name,source,gender,wikidata,type
 "Croix Place",,,,way
 "Domaine de la Brisée",,,,relation+way
 "Domaine des Bruyères",,,,way
-"Esplanade Anne-Charlotte de Lorraine",,,,way
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
 Grand'Route,,,,way
@@ -103,9 +92,7 @@ Grand-Rue,,,,way
 "Piedsente du Cabinet Cossée",,,,way
 "Place Vervoort",,,,way
 "Place de Bootle",,,,way
-"Place de Spiennes",,,,way
 "Place de la Citadelle",,,,way
-"Place de la Gare",,,,way
 "Place de la Grande Pêcherie",,,,way
 "Place de la Perche",,,,way
 "Place des Chasseurs à Pied",,,,way
@@ -120,7 +107,6 @@ Grand-Rue,,,,way
 "Pont du Prince",,,,way
 "Quai Nord",,,,way
 "RAVeL 1",,,,way
-"RAVeL de la Ligne 98",,,,way
 "RAVeL de la Ligne 98C",,,,way
 "Rampe du Château",,,,way
 "Résidence Christina Lodges",,,,way
@@ -187,7 +173,6 @@ Grand-Rue,,,,way
 "Rue Piedsente du Moulin",,,,way
 "Rue Quewette",,,,way
 "Rue Rachot",,,,way
-"Rue Sainte Félicité",,,,way
 "Rue Serpentine",,,,way
 "Rue Sohier",,,,way
 "Rue Taille Coleau",,,,way
@@ -200,13 +185,10 @@ Grand-Rue,,,,way
 "Rue Vieille Chasse",,,,way
 "Rue Vieille Église",,,,way
 "Rue Vilaine",,,,way
-"Rue à Charettes",,,,way
 "Rue d'Empire",,,,way
 "Rue d'Ostenne",,,,way
 "Rue d'en Bas",,,,way
 "Rue de Beauval",,,,way
-"Rue de Binche - Chemin de Binche",,,,way
-"Rue de Brocqueroie",,,,way
 "Rue de Cache Après",,,,way
 "Rue de Cantimpret",,,,way
 "Rue de Caraman",,,,way
@@ -232,7 +214,6 @@ Grand-Rue,,,,way
 "Rue de la Casse",,,,way
 "Rue de la Cité",,,,way
 "Rue de la Clef",,,,way
-"Rue de la Côte d'Ivoire",,,,way
 "Rue de la Coupe",,,,way
 "Rue de la Couronne",,,,way
 "Rue de la Drève",,,,way
@@ -241,11 +222,9 @@ Grand-Rue,,,,way
 "Rue de la Genièvrerie",,,,way
 "Rue de la Goëtte",,,,way
 "Rue de la Grosse Cotte",,,,way
-"Rue de la Grosse Pomme",,,,way
 "Rue de la Hainette",,,,way
 "Rue de la Haye Fourrée",,,,way
 "Rue de la Limite",,,,way
-"Rue de la Mine",,,,way
 "Rue de la Peine Perdue",,,,way
 "Rue de la Perche",,,,way
 "Rue de la Petite Bruyère",,,,way
@@ -276,26 +255,18 @@ Grand-Rue,,,,way
 "Rue des Croix",,,,way
 "Rue des Croix Projetées",,,,way
 "Rue des Durmenés",,,,way
-"Rue des Écoles",,,,way
-"Rue des Fillettes",,,,way
-"Rue des Fossés",,,,way
 "Rue des Frères",,,,way
 "Rue des Gaillers",,,,way
 "Rue des Hiots",,,,way
 "Rue des Marcottes",,,,way
-"Rue des Moineaux",,,,way
-"Rue des Nations",,,,way
 "Rue des Passages",,,,way
-"Rue des Phosphates",,,,way
 "Rue des Pierres à Fusil",,,,way
 "Rue des Postes",,,,way
 "Rue des Prés Sauvages",,,,way
-"Rue des Produits",,,,way
 "Rue des Représentants",,,,way
 "Rue des Rimahans",,,,way
 "Rue des Ropieurs",,,,way
 "Rue des Sandrinettes",,,,way
-"Rue des Sangliers",,,,way
 "Rue des Sinistrés",,,,way
 "Rue des Sœurs Grises",,,,way
 "Rue des Sœurs Noires",,,,way
@@ -309,7 +280,6 @@ Grand-Rue,,,,way
 "Rue du Blanc Chemin",,,,way
 "Rue du Bois",,,,way
 "Rue du Bois d'Arras",,,,way
-"Rue du Brocqueroy",,,,way
 "Rue du Camp",,,,way
 "Rue du Campiau",,,,way
 "Rue du Centre",,,,way
@@ -323,7 +293,6 @@ Grand-Rue,,,,way
 "Rue du Dépôt",,,,way
 "Rue du Fiesty",,,,way
 "Rue du Fisch Club",,,,way
-"Rue du Flamand",,,,way
 "Rue du Fort Mahon",,,,way
 "Rue du Foyau",,,,way
 "Rue du Gaillardmont",,,,way
@@ -332,18 +301,15 @@ Grand-Rue,,,,way
 "Rue du Grand Trait - Avenue du Champ de Bataille",,,,way
 "Rue du Grand Trou Oudart",,,,way
 "Rue du Kêne à Caimont",,,,way
-"Rue du Levant",,,,way
 "Rue du Loriot",,,,way
 "Rue du Miroir",,,,way
 "Rue du Moulin au Bois",,,,way
 "Rue du Moulin de Spiennes",,,,way
-"Rue du Onze Novembre",,,,way
 "Rue du Petit Champs",,,,way
 "Rue du Petit Hornu",,,,way
 "Rue du Petit Moulin",,,,way
 "Rue du Petit Spiennes",,,,way
 "Rue du Petit Versailles",,,,way
-"Rue du Peuple",,,,way
 "Rue du Pic et Plat",,,,way
 "Rue du Plan Incliné",,,,way
 "Rue du Pont Beumier",,,,way
@@ -355,7 +321,6 @@ Grand-Rue,,,,way
 "Rue du Rosaire",,,,way
 "Rue du Rutiau",,,,way
 "Rue du Saudart",,,,way
-"Rue du Sergent",,,,way
 "Rue du Tordoir",,,,way
 "Rue du Troubiot",,,,way
 "Rue du Vent Val",,,,way
@@ -375,17 +340,13 @@ Grand-Rue,,,,way
 "Sentier Moncoureur",,,,way
 "Sentier Vicinal n°53",,,,way
 "Sentier Vicinal n°94",,,,way
-"Sentier de Valenciennes",,,,way
 "Sentier de la Croix Blanche",,,,way
 "Sentier de la Grande Bruyère",,,,way
 "Sentier de la Place",,,,way
 "Sentier des Derrières",,,,way
-"Sentier des Fougères",,,,way
 "Sentier des Gaillies",,,,way
-"Sentier des Morts",,,,way
 "Sentier des Pendants",,,,way
 "Sentier des Planches",,,,way
-"Sentier des Sureaux",,,,way
 "Sentier des Vaches",,,,way
 "Sentier du Bois",,,,way
 "Sentier du Cernaux",,,,way
@@ -395,5 +356,4 @@ Grand-Rue,,,,way
 "Venelle Veuve Préaux",,,,way
 "Venelle de l'Egalité",,,,way
 "Vicinal n°44",,,,way
-"Vieux Chemin de Valenciennes",,,,way
-"Voie du Moulin",,,,way
+"Villa des Hirondelles",,,,way
