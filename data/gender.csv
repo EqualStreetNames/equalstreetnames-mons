@@ -150,6 +150,7 @@ name,source,gender,wikidata,type
 "Place d'Havré",wikidata,-,Q2611889,way
 "Place d'Hyon",wikidata,-,Q2360484,way
 "Place d'Obourg",wikidata,-,Q2004815,way
+"Place de Bootle",wikidata,-,Q893159,way
 "Place de Briare",wikidata,-,Q818443,way
 "Place de Ciply",wikidata,-,Q2973295,way
 "Place de Cuesmes",wikidata,-,Q2269644,way
@@ -343,6 +344,7 @@ name,source,gender,wikidata,type
 "Rue de la Soupe Populaire",wikidata,-,Q2142654,way
 "Rue de la Station",wikidata,-,Q2169820,way
 "Rue de la Sucrerie",wikidata,-,Q119518044,way
+"Rue de la Taille des Vignes",wikidata,-,Q667832,way
 "Rue de la Tannerie",wikidata,-,Q3515239,way
 "Rue de la Terre Bêchée",wikidata,-,Q124946,way
 "Rue de la Tour Auberon",wikidata,-,Q1139234,way
@@ -724,6 +726,7 @@ name,source,gender,wikidata,type
 "Rue Dubreucq",wikidata,M,Q3087528,way
 "Rue Dumouriez",wikidata,M,Q378572,way
 "Rue Édouard Dewèze",wikidata,M,Q110230138,way
+"Rue Édouard Mouzin",wikidata,M,Q110219844,way
 "Rue Éleuthère Mercier",wikidata,M,Q110202338,way
 "Rue Émile Blairon",wikidata,M,Q110246945,way
 "Rue Émile Jambe",wikidata,M,Q110236185,way
@@ -738,6 +741,7 @@ name,source,gender,wikidata,type
 "Rue Fernand Piron",wikidata,M,Q110205583,way
 "Rue Fernand Quenon",wikidata,M,Q110205684,way
 "Rue Ferrer",wikidata,M,Q354202,way
+"Rue Fidèle Gérard",wikidata,M,Q110206315,way
 "Rue Florimond Lemoine",wikidata,M,Q110205956,way
 "Rue François Fétis",wikidata,M,Q523581,way
 "Rue François Marcq",wikidata,M,Q110206076,way
@@ -748,7 +752,6 @@ name,source,gender,wikidata,type
 "Rue Georges Mabile",wikidata,M,Q110206171,way
 "Rue Georges Plumart",wikidata,M,Q110206242,way
 "Rue Georges Wattiez",wikidata,M,Q110206278,way
-"Rue Gérard",wikidata,M,Q110206315,way
 "Rue Gontrand Bachy",wikidata,M,Q110206421,way
 "Rue Guy de Brès",wikidata,M,Q1368959,way
 "Rue Hector Charlez",wikidata,M,Q110206477,way
@@ -806,7 +809,6 @@ name,source,gender,wikidata,type
 "Rue Maurice Flament",wikidata,M,Q55619992,way
 "Rue Maurice Ghislain",wikidata,M,Q110219818,way
 "Rue Molière",wikidata,M,Q687,way
-"Rue Mouzin",wikidata,M,Q110219844,way
 "Rue Nestor Dehon",wikidata,M,Q110219881,way
 "Rue Nicolas d'Hardenpont",wikidata,M,Q92107500,way
 "Rue Oscar Devreux",wikidata,M,Q130321192,way
