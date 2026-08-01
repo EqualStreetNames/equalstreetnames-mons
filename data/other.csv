@@ -1,10 +1,8 @@
 name,source,gender,wikidata,type
-"Aire du Bois du Gard (Nord)",,,,way
-"Aire du Bois du Gard Sud",,,,way
 "Autoroute de Wallonie",,,,way
 "Avenue Benoite",,,,way
-"Avenue Floréal",,,,way
 "Avenue Lemiez",,,,way
+"Avenue de Shangri-La",,,,way
 "Avenue de la Chasse Royale",,,,way
 "Avenue de la Grande Barre",,,,way
 "Avenue de la Shangri",,,,way
@@ -20,7 +18,6 @@ name,source,gender,wikidata,type
 "Avenue du Pont Rouge",,,,way
 "Avenue du Tir",,,,way
 "Avenue du Trou au Sable",,,,way
-"Axiale Boraine",,,,way
 "Bas Chemin",,,,way
 "Boulevard Type",,,,way
 "Chasse Barbieux",,,,way
@@ -58,8 +55,6 @@ name,source,gender,wikidata,type
 "Cité du Repos",,,,way
 "Cité du Vieux Champ",,,,way
 "Clos Balasse",,,,way
-"Clos John Henry Parr",,,,way
-"Clos de la Barrière de Spiennes",,,,way
 "Clos de la Meulière",,,,way
 "Coron du Vingt",,,,way
 "Cour Libert",,,,way
@@ -72,7 +67,6 @@ name,source,gender,wikidata,type
 Fausse-Voie,,,,way
 "Grand Chemin",,,,way
 Grand'Route,,,,way
-Grand-Place,,,,way
 Grand-Rue,,,,way
 "Green Park",,,,way
 "Impasse Beghin",,,,way
@@ -80,8 +74,8 @@ Grand-Rue,,,,way
 "Impasse Faucon",,,,way
 "Impasse Montenez",,,,way
 "Impasse Tirtey",,,,way
-"Impasse de la Chapelle",,,,way
 "Impasse de la Consule",,,,way
+L109A,,,,way
 "Marché Croix Place",,,,way
 "Marché aux Herbes",,,,way
 "Parvis de Messines",,,,way
@@ -92,18 +86,14 @@ Grand-Rue,,,,way
 "Piedsente du Cabinet Cossée",,,,way
 "Place Vervoort",,,,way
 "Place de la Citadelle",,,,way
-"Place de la Grande Pêcherie",,,,way
 "Place de la Perche",,,,way
 "Place des Chasseurs à Pied",,,,way
 "Place du Bastion Vert",,,,way
 "Place du Busteau",,,,way
-"Place du Coq",,,,way
 "Place du Manège",,,,way
-"Place du Souvenir",,,,way
 "Plat Chemin",,,,way
 "Pont de Busteau",,,,way
 "Pont du Prince",,,,way
-"Quai Nord",,,,way
 "RAVeL 1",,,,way
 "RAVeL de la Ligne 98C",,,,way
 "Rampe du Château",,,,way
@@ -111,17 +101,14 @@ Grand-Rue,,,,way
 "Résidence Houyoux-Guilmot",,,,way
 "Résidence de Milfort",,,,way
 "Résidence de la Bascule",,,,way
-"Résidence des Agasses",,,,way
 "Résidence des Baudarts",,,,way
 "Résidence des Mortes Haies",,,,way
 "Rond-Point des Baudarts",,,,way
 "Rond-Point du Pont-Canal",,,,way
 "Route Industrielle",,,,way
-"Route Macadamisée",,,,way
 "Rue Barbet",,,,way
 "Rue Baron Dubois de Chantraine",,,,way
 "Rue Basse",,,,way
-"Rue Basse-cour",,,,way
 "Rue Berlanger",,,,way
 "Rue Blancart",,,,way
 "Rue Borette",,,,way
@@ -141,13 +128,13 @@ Grand-Rue,,,,way
 "Rue Fassiau",,,,way
 "Rue Fontaine Tordeur",,,,way
 "Rue Franche",,,,way
+"Rue Frebutte",,,,way
 "Rue Frérot",,,,way
 "Rue Genestrois",,,,way
 "Rue Grand Pays",,,,way
 "Rue Grand-Route",,,,way
 "Rue Grande",,,,way
 "Rue Hauzeur",,,,way
-"Rue Hippocratis",,,,way
 "Rue Jacquet",,,,way
 "Rue Kincamps",,,,way
 "Rue Lecat",,,,way
@@ -227,7 +214,6 @@ Grand-Rue,,,,way
 "Rue de la Poire d'Or",,,,way
 "Rue de la Quéwette",,,,way
 "Rue de la Raquette",,,,way
-"Rue de la Régence",,,,way
 "Rue de la Réunion",,,,way
 "Rue de la Roche",,,,way
 "Rue de la Taille des Mères",,,,way
@@ -251,10 +237,7 @@ Grand-Rue,,,,way
 "Rue des Frères",,,,way
 "Rue des Gaillers",,,,way
 "Rue des Hiots",,,,way
-"Rue des Marcottes",,,,way
 "Rue des Passages",,,,way
-"Rue des Pierres à Fusil",,,,way
-"Rue des Postes",,,,way
 "Rue des Prés Sauvages",,,,way
 "Rue des Représentants",,,,way
 "Rue des Rimahans",,,,way
@@ -271,11 +254,9 @@ Grand-Rue,,,,way
 "Rue du Bas Chemin",,,,way
 "Rue du Blanc Chemin",,,,way
 "Rue du Bois",,,,way
-"Rue du Bois d'Arras",,,,way
 "Rue du Camp",,,,way
 "Rue du Campiau",,,,way
 "Rue du Centre",,,,way
-"Rue du Cerf Blanc",,,,way
 "Rue du Château Guillochain",,,,way
 "Rue du Coin Vert",,,,way
 "Rue du Coin de Terre",,,,way
@@ -298,9 +279,7 @@ Grand-Rue,,,,way
 "Rue du Moulin au Bois",,,,way
 "Rue du Moulin de Spiennes",,,,way
 "Rue du Petit Champs",,,,way
-"Rue du Petit Hornu",,,,way
 "Rue du Petit Moulin",,,,way
-"Rue du Petit Spiennes",,,,way
 "Rue du Petit Versailles",,,,way
 "Rue du Pic et Plat",,,,way
 "Rue du Plan Incliné",,,,way
@@ -310,7 +289,6 @@ Grand-Rue,,,,way
 "Rue du Pont du Prince",,,,way
 "Rue du Poteau",,,,way
 "Rue du Repos",,,,way
-"Rue du Rosaire",,,,way
 "Rue du Rutiau",,,,way
 "Rue du Saudart",,,,way
 "Rue du Tordoir",,,,way
@@ -325,7 +303,6 @@ Grand-Rue,,,,way
 "Ruelle Plaquette",,,,way
 "Ruelle aux Quinettes",,,,way
 "Ruelle des Hiots",,,,way
-"Ruelle du Progrès",,,,way
 "Ruelle du Repos",,,,way
 "Sentier Malaquin",,,,way
 "Sentier Vicinal n°53",,,,way
@@ -340,7 +317,6 @@ Grand-Rue,,,,way
 "Sentier des Vaches",,,,way
 "Sentier du Bois",,,,way
 "Sentier du Cernaux",,,,way
-"Sentier du Coq",,,,way
 "Sentier vicinal N° 48",,,,way
 "Taille Cuvelier",,,,way
 "Venelle Veuve Préaux",,,,way

@@ -2,6 +2,8 @@ name,source,gender,wikidata,type
 "Avenue Albert-Elisabeth",wikidata,+,Q55008046;Q235186,way
 "Boulevard Albert-Élisabeth",wikidata,+,Q55008046;Q235186,way
 "Rue Pierre et Marie Curie",wikidata,+,Q37463;Q7186,way
+"Aire du Bois du Gard (Nord)",wikidata,-,Q21766111,way
+"Aire du Bois du Gard Sud",wikidata,-,Q21766111,way
 "Allée des Aubépines",wikidata,-,Q132557,way
 "Allée des Bouleaux",wikidata,-,Q25243,way
 "Allée des Boutons d'Or",wikidata,-,Q146130,way
@@ -26,9 +28,10 @@ name,source,gender,wikidata,type
 "Allée des Plantes Sauvages",wikidata,-,Q2570868,way
 "Allée des Platanes",wikidata,-,Q163025,way
 "Allée des Roseaux",wikidata,-,Q2734060,way
-"Allée des Saules",wikidata,-,Q145889,way
+"Allée des Saules",wikidata,-,Q36050,way
 "Allée des Thuyas",wikidata,-,Q147255,way
 "Allée du Cimetière",wikidata,-,Q39614,way
+"Avenue Floréal",wikidata,-,Q837293,way
 "Avenue d'Hyon",wikidata,-,Q2360484,way
 "Avenue d'Ottawa",wikidata,-,Q1930,way
 "Avenue de Cuesmes",wikidata,-,Q2269644,way
@@ -68,12 +71,13 @@ name,source,gender,wikidata,type
 "Avenue du Champ de Bataille",wikidata,-,Q855271,way
 "Avenue du Champ de Mars",wikidata,-,Q233778,way
 "Avenue du Charbonnage",wikidata,-,Q959309,way
-"Avenue du Coq",wikidata,-,Q2996902,way
+"Avenue du Coq",wikidata,-,Q140523040,way
 "Avenue du Grand Large",wikidata,-,Q2070988,way
 "Avenue du Quatrième Middlesex",wikidata,-,Q6841933,way
 "Avenue du Shape",wikidata,-,Q1432908,way
 "Avenue du Tennis",wikidata,-,Q847,way
 "Avenue du Vingt-Trois Août",wikidata,-,Q1417205,way
+"Axiale Boraine",wikidata,-,Q182920,way
 "Boulevard Initialis",wikidata,-,Q3151103,way
 "Chasse du Bon Dieu de Pitié",wikidata,-,Q2964913,way
 "Chaussée de Beaumont",wikidata,-,Q95100,way
@@ -97,6 +101,7 @@ name,source,gender,wikidata,type
 "Chemin de Mesvin",wikidata,-,Q2577776,way
 "Chemin de Spiennes",wikidata,-,Q913623,way
 "Chemin de Villers",wikidata,-,Q3224973,way
+"Chemin de l'École de Plein Air",wikidata,-,Q19794100,way
 "Chemin de l'Ermitage",wikidata,-,Q128995707,way
 "Chemin de l'Inquiétude",wikidata,-,Q154430,way
 "Chemin de l'Oasis",wikidata,-,Q43742,way
@@ -125,6 +130,7 @@ name,source,gender,wikidata,type
 "Chemin du Versant",wikidata,-,Q3323149,way
 "Cité du Congo",wikidata,-,Q213510,way
 "Clos de l'Herbette",wikidata,-,Q643352,way
+"Clos de la Barrière de Spiennes",wikidata,-,Q913623,way
 "Clos des Forgerons",wikidata,-,Q1639825,way
 "Clos des Puits",wikidata,-,Q43483,way
 "Clos des Tuileries",wikidata,-,Q198632,way
@@ -134,8 +140,11 @@ name,source,gender,wikidata,type
 "Digue des Peupliers",wikidata,-,Q25356,way
 "Drève du Prophète",wikidata,-,Q42857,way
 "Enclos des Récollets",wikidata,-,Q2456641,way
+"Espace des Mauves",wikidata,-,Q147325,way
+Grand-Place,wikidata,-,Q2791212,way
 "Impasse Fauconnier",wikidata,-,Q211011,way
 "Impasse de la Cense Gain",wikidata,-,Q2944253,way
+"Impasse de la Chapelle",wikidata,-,Q21619533,way
 "Impasse de la Verrerie",wikidata,-,Q1089246,way
 "Mont du Parc",wikidata,-,Q858177,way
 "Parc de la Sablonnière",wikidata,-,Q10278900,way
@@ -165,17 +174,22 @@ name,source,gender,wikidata,type
 "Place de Vannes",wikidata,-,Q6593,way
 "Place de la Bergeronnette",wikidata,-,Q230042,way
 "Place de la Gare",wikidata,-,Q14385980,way
+"Place de la Grande Pêcherie",wikidata,-,Q180538,way
 "Place des Alliés",wikidata,-,Q3612401,way
 "Place des Archers",wikidata,-,Q890527,way
+"Place des Centaurées",wikidata,-,Q156414,way
 "Place des Congrès",wikidata,-,Q19801559,way
 "Place des Martyrs",wikidata,-,Q1417205,way
 "Place du Béguinage",wikidata,-,Q12816129,way
 "Place du Chapitre",wikidata,-,Q216285,way
 "Place du Chardonneret",wikidata,-,Q25418,way
+"Place du Coq",wikidata,-,Q140523040,way
 "Place du Marais à Criquelions",wikidata,-,Q21765700,way
 "Place du Marché aux Poissons",wikidata,-,Q1188480,way
 "Place du Parc",wikidata,-,Q858177,way
+"Place du Souvenir",wikidata,-,Q3492373,way
 "Pont Clara (RAVeL de la Ligne 98)",wikidata,-,Q1114146,way
+"Quai Nord",wikidata,-,Q828909,way
 "Quai Sud",wikidata,-,Q828909,way
 "Quai des Anglais",wikidata,-,Q42406,way
 "Quai des Otages",wikidata,-,Q192620,way
@@ -185,6 +199,7 @@ name,source,gender,wikidata,type
 "Résidence Le Festinoy",wikidata,-,Q106889534,way
 "Résidence Moncoureur",wikidata,-,Q139969675,way
 "Résidence Thoissey",wikidata,-,Q843583,way
+"Résidence des Agasses",wikidata,-,Q2495957,way
 "Résidence du Rieu",wikidata,-,Q63565252,way
 "Rive Droite du Canal du Centre",wikidata,-,Q1032687,way
 "Rive Gauche du Canal",wikidata,-,Q2434753,way
@@ -197,6 +212,7 @@ name,source,gender,wikidata,type
 "Route de Beaumont",wikidata,-,Q95100,way
 "Route de Binche",wikidata,-,Q95121,way
 "Route de Wallonie",wikidata,-,Q83078,way
+"Rue Basse-cour",wikidata,-,Q2887356,way
 "Rue Brisée / Rue de Binche",wikidata,-,Q95121,way
 "Rue Brunehaut",wikidata,-,Q95132,way
 "Rue Cardinal Mercier",wikidata,-,Q3389738,way
@@ -297,7 +313,7 @@ name,source,gender,wikidata,type
 "Rue de la Briqueterie",wikidata,-,Q40089,way
 "Rue de la Butte",wikidata,-,Q1584134,way
 "Rue de la Cascade",wikidata,-,Q34038,way
-"Rue de la Chaussée",wikidata,-,Q194029,way
+"Rue de la Chaussée",wikidata,-,Q2961670,way
 "Rue de la Chênaie",wikidata,-,Q2972109,way
 "Rue de la Cimenterie",wikidata,-,Q45190,way
 "Rue de la Clairière",wikidata,-,Q4358873,way
@@ -400,7 +416,7 @@ name,source,gender,wikidata,type
 "Rue des Fabriques",wikidata,-,Q83405,way
 "Rue des Faubourgs",wikidata,-,Q442799,way
 "Rue des Fillettes",wikidata,-,Q36633,way
-"Rue des Fossés",wikidata,-,Q88480,way
+"Rue des Fossés",wikidata,-,Q2048319,way
 "Rue des Fours à Chaux",wikidata,-,Q59772,way
 "Rue des Fripiers",wikidata,-,Q3087867,way
 "Rue des Futaies",wikidata,-,Q238804,way
@@ -417,6 +433,7 @@ name,source,gender,wikidata,type
 "Rue des Kiévrois",wikidata,-,Q95318,way
 "Rue des Laminoirs",wikidata,-,Q1049792,way
 "Rue des Maraîchers",wikidata,-,Q19914236,way
+"Rue des Marcottes",wikidata,-,Q1402114,way
 "Rue des Martyrs",wikidata,-,Q6498826,way
 "Rue des Moineaux",wikidata,-,Q16034852,way
 "Rue des Muguets",wikidata,-,Q101711,way
@@ -427,8 +444,10 @@ name,source,gender,wikidata,type
 "Rue des Pensionnés",wikidata,-,Q946865,way
 "Rue des Phosphates",wikidata,-,Q46220103,way
 "Rue des Pierres",wikidata,-,Q121649,way
+"Rue des Pierres à Fusil",wikidata,-,Q369555,way
 "Rue des Pinsons",wikidata,-,Q30241,way
 "Rue des Pivoines",wikidata,-,Q147105,way
+"Rue des Postes",wikidata,-,Q49845,way
 "Rue des Préelles",wikidata,-,Q108141955,way
 "Rue des Prés Verts",wikidata,-,Q7777019,way
 "Rue des Prisonniers",wikidata,-,Q179637,way
@@ -460,12 +479,14 @@ name,source,gender,wikidata,type
 "Rue du Béguinage",wikidata,-,Q12816129,way
 "Rue du Bois Brûlé",wikidata,-,Q21770505,way
 "Rue du Bois Là-Haut",wikidata,-,Q21767703,way
+"Rue du Bois d'Arras",wikidata,-,Q131329,way
 "Rue du Bois d'Havré",wikidata,-,Q21767726,way
 "Rue du Bois d'Hayon",wikidata,-,Q21767729,way
 "Rue du Bois des Dames",wikidata,-,Q21768599,way
 "Rue du By",wikidata,-,Q2929120,way
 "Rue du Canal",wikidata,-,Q913134,way
 "Rue du Car d'Or",wikidata,-,Q127419088,way
+"Rue du Cerf Blanc",wikidata,-,Q7995696,way
 "Rue du Cerisier",wikidata,-,Q3220964,way
 "Rue du Chapitre",wikidata,-,Q216285,way
 "Rue du Château",wikidata,-,Q520029,way
@@ -506,7 +527,9 @@ name,source,gender,wikidata,type
 "Rue du Pavillon",wikidata,-,Q111210988,way
 "Rue du Périsel",wikidata,-,Q21763528,way
 "Rue du Petit Harvengt",wikidata,-,Q2257339,way
+"Rue du Petit Hornu",wikidata,-,Q3140668,way
 "Rue du Petit Marais",wikidata,-,Q30198,way
+"Rue du Petit Spiennes",wikidata,-,Q913623,way
 "Rue du Peuple",wikidata,-,Q2472587,way
 "Rue du Point du Jour",wikidata,-,Q11326182,way
 "Rue du Pont",wikidata,-,Q12280,way
@@ -517,6 +540,7 @@ name,source,gender,wikidata,type
 "Rue du Rapois",wikidata,-,Q21764477,way
 "Rue du Ravin",wikidata,-,Q2042028,way
 "Rue du Rivage",wikidata,-,Q468756,way
+"Rue du Rosaire",wikidata,-,Q11326182,way
 "Rue du Rossignol",wikidata,-,Q19832477,way
 "Rue du Rouge-Gorge",wikidata,-,Q25334,way
 "Rue du Sable",wikidata,-,Q34679,way
@@ -536,6 +560,7 @@ name,source,gender,wikidata,type
 "Ruelle à Vaches",wikidata,-,Q11748378,way
 "Ruelle de l'Âtre",wikidata,-,Q188669,way
 "Ruelle des Pêcheurs",wikidata,-,Q331432,way
+"Ruelle du Progrès",wikidata,-,Q2351730,way
 "Sentier Hubert",wikidata,-,Q13728754,way
 "Sentier Moncoureur",wikidata,-,Q139969675,way
 "Sentier de Valenciennes",wikidata,-,Q163795,way
@@ -554,15 +579,18 @@ name,source,gender,wikidata,type
 "Sentier des Poètes",wikidata,-,Q49757,way
 "Sentier des Rogneaux",wikidata,-,Q3439692,way
 "Sentier des Sureaux",wikidata,-,Q131448,way
+"Sentier du Coq",wikidata,-,Q140523040,way
 "Sentier du Vicaire",wikidata,-,Q193364,way
 "Square Europe",wikidata,-,Q458,way
 "Square de la Résistance",wikidata,-,Q2094191,way
+"Venelle de la Consoude",wikidata,-,Q161566,way
 "Venelle de la Paix",wikidata,-,Q454,way
 "Venelle de la Résistance",wikidata,-,Q2094191,way
 "Venelle des Chanoinesses",wikidata,-,Q913870,way
 "Venelle des Hallebardiers",wikidata,-,Q3126109,way
 "Venelle des Hommes de Feuilles",wikidata,-,Q135435884,way
 "Venelle des Petits Pages",wikidata,-,Q135436639,way
+"Venelle des Séneçons",wikidata,-,Q209596,way
 "Vieille Chaussée de Maubeuge",wikidata,-,Q138648,way
 "Vieux Chemin de Binche",wikidata,-,Q95121,way
 "Vieux Chemin de Givry",wikidata,-,Q3108212,way
@@ -630,7 +658,7 @@ name,source,gender,wikidata,type
 "Avenue Roi Albert",wikidata,M,Q55008046,way
 "Avenue Saint-Fiacre",wikidata,M,Q953927,way
 "Avenue Thomas Edison",wikidata,M,Q8743,way
-"Avenue Victor Maistriau",wikidata,M,Q465953;Q9696,way
+"Avenue Victor Maistriau",wikidata,M,Q465953,way
 "Avenue Wilson",wikidata,M,Q34296,way
 "Avenue de Saint-Pierre",wikidata,M,Q33923,way
 "Avenue du Général de Gaulle",wikidata,M,Q2042,way
@@ -645,7 +673,7 @@ name,source,gender,wikidata,type
 "Boulevard Gendebien",wikidata,M,Q693047,way
 "Boulevard Sainctelette",wikidata,M,Q1814380,way
 "Boulevard Winston Churchill",wikidata,M,Q8016,way
-"Boulevard du Président Kennedy",wikidata,M,Q771562,way
+"Boulevard du Président Kennedy",wikidata,M,Q9696,way
 "Chaussée du Roi Baudouin",wikidata,M,Q12976,way
 "Chemin Saint-Antoine",wikidata,M,Q170547,way
 "Chemin Saint-Pierre",wikidata,M,Q33923,way
@@ -657,6 +685,7 @@ name,source,gender,wikidata,type
 "Clos Charles Jarvis",wikidata,M,Q5079470,way
 "Clos Evariste Mantannus",wikidata,M,Q110167225,way
 "Clos Fernand Debouck",wikidata,M,Q110167451,way
+"Clos John Henry Parr",wikidata,M,Q1701330,way
 "Clos Juan Bury",wikidata,M,Q110167659,way
 "Clos Maurice Dease",wikidata,M,Q6793009,way
 "Clos Nestor Nicaise",wikidata,M,Q110167700,way
@@ -745,7 +774,6 @@ name,source,gender,wikidata,type
 "Rue Florimond Lemoine",wikidata,M,Q110205956,way
 "Rue François Fétis",wikidata,M,Q523581,way
 "Rue François Marcq",wikidata,M,Q110206076,way
-"Rue Frebutte",wikidata,M,Q244380,way
 "Rue Froissart",wikidata,M,Q315000,way
 "Rue Galilée",wikidata,M,Q307,way
 "Rue Georges Delporte",wikidata,M,Q110236527,way
@@ -763,6 +791,7 @@ name,source,gender,wikidata,type
 "Rue Henri Glépin",wikidata,M,Q110206640,way
 "Rue Henri Rapez",wikidata,M,Q110206660,way
 "Rue Henri Tournelle",wikidata,M,Q3132082,way
+"Rue Hippocratis",wikidata,M,Q5264,way
 "Rue Houzeau",wikidata,M,Q110206782,way
 "Rue Jacques Pattey",wikidata,M,Q110220007,way
 "Rue Jacques Prévert",wikidata,M,Q165274,way
@@ -790,7 +819,7 @@ name,source,gender,wikidata,type
 "Rue Léon Dewolf",wikidata,M,Q110216255,way
 "Rue Léon Flament",wikidata,M,Q3088162,way
 "Rue Léon Navez",wikidata,M,Q3271229,way
-"Rue Léon Save",wikidata,M,Q110216314;Q55619992,way
+"Rue Léon Save",wikidata,M,Q110216314,way
 "Rue Léopold II",wikidata,M,Q12967,way
 "Rue Léopold III",wikidata,M,Q12973,way
 "Rue Lhoir",wikidata,M,Q110206578,way
@@ -839,7 +868,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Hubert",wikidata,M,Q159834,way
 "Rue Saint-Jean",wikidata,M,Q44015,way
 "Rue Saint-Lazare",wikidata,M,Q539890,way
-"Rue Saint-Léger",wikidata,M,Q56163384,way
+"Rue Saint-Léger",wikidata,M,Q1818867,way
 "Rue Saint-Luc",wikidata,M,Q128538,way
 "Rue Saint-Macaire",wikidata,M,Q110167908,way
 "Rue Saint-Paul",wikidata,M,Q9200,way
@@ -867,6 +896,7 @@ name,source,gender,wikidata,type
 "Rue de Saint-Symphorien",wikidata,M,Q686367,way
 "Rue de la Bruyère",wikidata,M,Q314975,way
 "Rue de la Houssière",wikidata,M,Q129705816,way
+"Rue de la Régence",wikidata,M,Q445553,way
 "Rue des Frères Defuisseaux",wikidata,M,Q2835060;Q3270883,way
 "Rue du Chanoine Puissant",wikidata,M,Q3047971,way
 "Rue du Chêne Damseaux",wikidata,M,Q100324607,way
