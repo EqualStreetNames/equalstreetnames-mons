@@ -38,6 +38,7 @@ name,source,gender,wikidata,type
 "Avenue de Jemappes",wikidata,-,Q1686757,way
 "Avenue de Liège",wikidata,-,Q3992,way
 "Avenue de Padoue",wikidata,-,Q617,way
+"Avenue de Shangri-La",wikidata,-,Q464520,way
 "Avenue de l'Europe",wikidata,-,Q46,way
 "Avenue de l'Hôpital",wikidata,-,Q16917,way
 "Avenue de l'Université",wikidata,-,Q2230156,way
@@ -79,6 +80,7 @@ name,source,gender,wikidata,type
 "Avenue du Vingt-Trois Août",wikidata,-,Q1417205,way
 "Axiale Boraine",wikidata,-,Q182920,way
 "Boulevard Initialis",wikidata,-,Q3151103,way
+"Boulevard Type",wikidata,-,Q1979154,way
 "Chasse du Bon Dieu de Pitié",wikidata,-,Q2964913,way
 "Chaussée de Beaumont",wikidata,-,Q95100,way
 "Chaussée de Binche",wikidata,-,Q95121,way
@@ -213,6 +215,7 @@ Grand-Place,wikidata,-,Q2791212,way
 "Route de Binche",wikidata,-,Q95121,way
 "Route de Wallonie",wikidata,-,Q83078,way
 "Rue Basse-cour",wikidata,-,Q2887356,way
+"Rue Blancart",wikidata,-,Q59772,way
 "Rue Brisée / Rue de Binche",wikidata,-,Q95121,way
 "Rue Brunehaut",wikidata,-,Q95132,way
 "Rue Cardinal Mercier",wikidata,-,Q3389738,way
@@ -534,6 +537,7 @@ Grand-Place,wikidata,-,Q2791212,way
 "Rue du Point du Jour",wikidata,-,Q11326182,way
 "Rue du Pont",wikidata,-,Q12280,way
 "Rue du Portugal",wikidata,-,Q45,way
+"Rue du Poteau",wikidata,-,Q2180428,way
 "Rue du Pourcelet",wikidata,-,Q787,way
 "Rue du Progrès",wikidata,-,Q247792,way
 "Rue du Québec",wikidata,-,Q176,way

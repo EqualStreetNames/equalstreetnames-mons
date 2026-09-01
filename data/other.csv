@@ -2,10 +2,8 @@ name,source,gender,wikidata,type
 "Autoroute de Wallonie",,,,way
 "Avenue Benoite",,,,way
 "Avenue Lemiez",,,,way
-"Avenue de Shangri-La",,,,way
 "Avenue de la Chasse Royale",,,,way
 "Avenue de la Grande Barre",,,,way
-"Avenue de la Shangri",,,,way
 "Avenue des Expositions",,,,way
 "Avenue des Frondaisons",,,,way
 "Avenue du Bel Horizon",,,,way
@@ -19,7 +17,6 @@ name,source,gender,wikidata,type
 "Avenue du Tir",,,,way
 "Avenue du Trou au Sable",,,,way
 "Bas Chemin",,,,way
-"Boulevard Type",,,,way
 "Chasse Barbieux",,,,way
 "Chasse Cambier",,,,way
 "Chasse Fontaine",,,,way
@@ -110,7 +107,6 @@ L109A,,,,way
 "Rue Baron Dubois de Chantraine",,,,way
 "Rue Basse",,,,way
 "Rue Berlanger",,,,way
-"Rue Blancart",,,,way
 "Rue Borette",,,,way
 "Rue Bouteillère",,,,way
 "Rue Briffaut",,,,way
@@ -287,7 +283,6 @@ L109A,,,,way
 "Rue du Pont Canal",,,,way
 "Rue du Pont de Pierre",,,,way
 "Rue du Pont du Prince",,,,way
-"Rue du Poteau",,,,way
 "Rue du Repos",,,,way
 "Rue du Rutiau",,,,way
 "Rue du Saudart",,,,way
